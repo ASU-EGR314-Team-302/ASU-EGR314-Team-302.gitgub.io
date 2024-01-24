@@ -4,19 +4,28 @@ title: Home
 
 # Home
 
-## Introduction
-
-EGR 314 - Team 302
-
-Spring 2024
 
 ## Project Name:
 
 Uniform Climate Control (UCC)
 
-## Team Members:
+## Team 302 Members:
 
 * Alijah Williams
 * Jason Klinkbeil
 * Evan Lininger
 * Justin Hanson
+
+## Preparation Date:
+
+TBD
+
+### Arizona State University - EGR314 Spring 24' - Professor Kevin Nichols 
+
+## Links to Report Pages (Update and insert)
+
+User Needs, Benchmarking, and Rquirements
+
+Design Ideation
+
+Presentation 1
