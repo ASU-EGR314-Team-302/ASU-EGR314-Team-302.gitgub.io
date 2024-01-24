@@ -22,7 +22,7 @@ TBD
 
 ### Arizona State University - EGR314 Spring 24' - Professor Kevin Nichols 
 
-## Links to Report Pages (Update and insert)
+## Links to Report Pages
 
 [User Needs, Benchmarking, and Rquirements](/User_Needs,_Benchmarking,_Requirements/User_Needs)
 
