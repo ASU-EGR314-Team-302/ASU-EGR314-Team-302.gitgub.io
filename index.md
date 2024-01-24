@@ -24,8 +24,8 @@ TBD
 
 ## Links to Report Pages
 
-[User Needs, Benchmarking, and Rquirements](/User_Needs,_Benchmarking,_Requirements/User_Needs)
+[User Needs, Benchmarking, and Rquirements](/UserNeeds)
 
-[Design Ideation](/Design_Ideation/Design_Ideation)
+[Design Ideation](/DesignIdeation)
 
-[Presentation 1](/Presentation_1/Presentation1)
+[Presentation 1](/Presentation1)
