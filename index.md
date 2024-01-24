@@ -24,8 +24,8 @@ TBD
 
 ## Links to Report Pages
 
-[User Needs, Benchmarking, and Rquirements](/UserNeeds)
+[User Needs, Benchmarking, and Rquirements](/ASU-EGR314-Team-302.gitgub.io//UserNeeds)
 
-[Design Ideation](/DesignIdeation)
+[Design Ideation](/ASU-EGR314-Team-302.gitgub.io//DesignIdeation)
 
-[Presentation 1](/Presentation1)
+[Presentation 1](/ASU-EGR314-Team-302.gitgub.io//Presentation1)
