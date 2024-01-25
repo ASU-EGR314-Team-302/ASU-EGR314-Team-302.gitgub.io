@@ -1,6 +1,4 @@
----
-title: Home
----
+
 
 # Uniform Climate Control (UCC)
 
