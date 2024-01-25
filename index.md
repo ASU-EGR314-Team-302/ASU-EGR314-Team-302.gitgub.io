@@ -1,6 +1,6 @@
 
 
-# Uniform Climate Control (UCC)
+# Uniform Climate Control
 
 
 ## Team 302 Members:
