@@ -1,6 +1,4 @@
----
-Title: Appendix A - Team Organization
----
+
 
 # Appendix A: Team Organization
 
