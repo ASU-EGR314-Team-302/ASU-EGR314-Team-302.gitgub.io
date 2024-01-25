@@ -24,4 +24,7 @@ Once our goals were established, we began focusing on creating a more refined mi
 
 The next step was to create a system of communication for the team outside of class as well as establishing a meeting schedule. These charts as well as our conflict resolution plans can be seen in [Appendix A: Team Organization.](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixATeamOrganization)
 
+### Links:
+[Appendix A: Team Organization.](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixATeamOrganization)
+
 
