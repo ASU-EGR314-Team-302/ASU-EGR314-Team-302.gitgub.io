@@ -5,6 +5,7 @@ Title: Appendix A - Team Organization
 # Appendix A: Team Organization
 
 ### *Table 1: Team Member Communication Modes*
+
 | Name | First Choice Communication | Second Choice Communicaiton | Third Choice Communication |
 | :--- | :---: | :---: | :---: | 
 | Alijah Williams | Phone: 480-290-4686 | Email: ajwill65@asu.edu | Discord: Fragget |
@@ -20,7 +21,7 @@ The team will mainly communicate over the phone and through a text chain with ev
 
 ## *Figure 1: Meeting Schedule*
 
-![Meeting Schedule](docs/assets/images/meetingschedule.png)
+![Meeting Schedule](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/meetingschedule.png)
 
 **Note:** The most beneficial time for outside meetings for the team is on Tuesdays and Thursdays from 3PM to 6PM. 
 
