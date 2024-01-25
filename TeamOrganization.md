@@ -2,6 +2,8 @@
 Title: Team Organization
 ---
 
+# Team Organization
+
 ## Introduction
 
 For this semester, our team was assigned with creating a mobile weather station that utilizes two different weather condition sensors to record and operate a motor via wifi connection. The allowed sensors are: 
