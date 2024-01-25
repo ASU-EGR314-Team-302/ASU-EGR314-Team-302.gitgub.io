@@ -21,7 +21,7 @@ The team will mainly communicate over the phone and through a text chain with ev
 
 ![Meeting Schedule](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/meetingschedule.png)
 
-**Note:** The most beneficial time for outside meetings for the team is on Tuesdays and Thursdays from 3PM to 6PM. 
+**Note:** *The most beneficial time for outside meetings for the team is on Tuesdays and Thursdays from 3PM to 6PM.* 
 
 ## Roles & Responsibilities
 
