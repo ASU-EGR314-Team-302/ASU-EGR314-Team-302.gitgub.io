@@ -43,5 +43,7 @@ Our teams most important characteristics are:
 * The fan should be able to cool the surrounding area and reduce humidity.
 * The product should be able to be operated by one person or a single user.
 
-Link to [Appendix B: User Needs](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixBUserNeeds.md)
+### Links:
+
+[Appendix B: User Needs](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixBUserNeeds.md)
 
