@@ -2,12 +2,8 @@
 title: Home
 ---
 
-# Home
+# Uniform Climate Control (UCC)
 
-
-## Project Name:
-
-Uniform Climate Control (UCC)
 
 ## Team 302 Members:
 
@@ -16,13 +12,14 @@ Uniform Climate Control (UCC)
 * Evan Lininger
 * Justin Hanson
 
-## Preparation Date:
+## Preparation Date: 1/24/2024
 
-TBD
 
-### Arizona State University - EGR314 Spring 24' - Professor Kevin Nichols 
+## Arizona State University - EGR314 Spring 24' - Professor Kevin Nichols 
 
 ## Links to Report Pages
+
+[Team Organization](/ASU-EGR314-Team-302.gitgub.io//TeamOrganization)
 
 [User Needs, Benchmarking, and Rquirements](/ASU-EGR314-Team-302.gitgub.io//UserNeeds)
 
