@@ -49,4 +49,3 @@ It is expected that each member’s roles are subject to change/expand over the 
 
 Conflicts will be resolved through a team based system and through active communication between other group members as to what might need to be done if someone isn’t doing their part in completing the project. These discussions will happen in the team meetings if needed and the party who is in question will be allowed to explain themselves as to the reasons for their shortcomings. Tardiness will be handled in a similar way unless a group member is missing class due to a family emergency and or if they are sick, however, if that is the case some form of communication will be useful in order to clear that up. If group members are unable to resolve conflict as a group, we will contact the teaching staff accordingly. 
 
-Return to [Team Organization](ASU-EGR314-Team-302.gitgub.io//TeamOrganization)
