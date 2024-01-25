@@ -1,1 +1,1 @@
-# Appendix B: Usere Needs
+# Appendix B: User Needs
