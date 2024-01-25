@@ -24,3 +24,5 @@
 [Design Ideation](/ASU-EGR314-Team-302.gitgub.io//DesignIdeation)
 
 [Presentation 1](/ASU-EGR314-Team-302.gitgub.io//Presentation1)
+
+[Appendix](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixMain)
