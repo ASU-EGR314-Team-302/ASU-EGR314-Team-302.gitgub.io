@@ -25,4 +25,4 @@
 
 [Presentation 1](/ASU-EGR314-Team-302.gitgub.io//Presentation1)
 
-[Appendix](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixMain)
+[Appendix Directory](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixMain)
