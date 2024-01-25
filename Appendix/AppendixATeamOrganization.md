@@ -20,7 +20,7 @@ The team will mainly communicate over the phone and through a text chain with ev
 
 ## *Figure 1: Meeting Schedule*
 
-![Meeting Schedule](MeetingSchedule.png)
+![Meeting Schedule](docs/assets/images/meetingschedule.png)
 
 **Note:** The most beneficial time for outside meetings for the team is on Tuesdays and Thursdays from 3PM to 6PM. 
 
