@@ -17,7 +17,7 @@
 
 The team will mainly communicate over the phone and through a text chain with every member in it, thus communicating can be fast and efficient when we are not meeting in person. Discord and or email will be the second form of communication if someone cannot be reached over text as everyone in the group has both. Phone calls will be seen as a last resort if someone is needed to be contacted urgently. If none of those channels work then communication will be made in class. 
 
-## *Figure 1: Meeting Schedule*
+### *Figure 1: Meeting Schedule*
 
 ![Meeting Schedule](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/meetingschedule.png)
 
