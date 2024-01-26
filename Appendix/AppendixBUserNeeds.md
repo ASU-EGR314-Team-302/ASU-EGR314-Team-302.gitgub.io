@@ -63,7 +63,7 @@ __Description:__ A small, battery powered digital hygrometer and thermometer dev
 __Keywords:__ Hydrometer <br> __Search Results Link:__ 
 [Blue Digital Hydrometer and Thermometer](https://www.northernbrewer.com/products/tilt-wireless-hydrometer-and-thermometer-blue?variant=9723981561900&srsltid=AfmBOooeo0ciwBNmROxXwimPRIJIK0tksyrl0bFT8KHkPPntDZ0KQjFTvt8)
 
-<img src="docs\assets\images\hydrometer2.png" width="250" height="250">
+<img src="https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/hydrometer2.png" width="250" height="250">
 
 __Selected Products:__ [Blue Digital Hydrometer and Thermometer](https://www.northernbrewer.com/products/tilt-wireless-hydrometer-and-thermometer-blue?variant=9723981561900&srsltid=AfmBOooeo0ciwBNmROxXwimPRIJIK0tksyrl0bFT8KHkPPntDZ0KQjFTvt8)<br>
 __Price:__ $135 <br> 
