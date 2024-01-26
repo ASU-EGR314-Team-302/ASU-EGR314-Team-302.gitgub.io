@@ -119,4 +119,4 @@ __Description:__  Dreo bladeless tower fan for use in the bedroom, with a wind v
 __Keywords:__ Humidity sensor <br>
 __Search Results Link:__ [Humidity Controller IHC200](https://www.amazon.com/Humidity-Controller-Inkbird-Humidistat-Pre-wired/dp/B01J1E5LWM/ref=sr_1_4_sspa?crid=M10LJN9DTCGB&dib=eyJ2IjoiMSJ9.3n_s0dyO1rCbCYcdXDyMRIaP3B7oqcaPtONHV7rC8kUnhBNd4RK0BpcI_wgCg3j1qPFALv-6O4sF2CPtFXqxnoD-NvJb4j-Vffb04YobpEGxS874axKKGwmH9PDzttboeQQlY7aWlQ4lHrdOAWn2AApDa4t2M0VM_SHYHAeNpIfmy-VqkTOH-nVPNGfL1aZXUqDpesu36-dm96RqcCv-q4m4pYWiKKLXnNRkdwJhAWA.jFeL_2CkwmPQsCrH0kj1utlWRIQxmELArSCdnVo7TAw&dib_tag=se&keywords=humidity+sensor&qid=1705358970&sprefix=humidity+s%2Caps%2C125&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) 
 
-<img src="" width="250" height="250">
+<img src="https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/HumSensor.png" width="250" height="250">
