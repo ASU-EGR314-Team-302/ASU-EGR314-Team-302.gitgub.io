@@ -82,9 +82,11 @@ __Description:__ This free-floating gadget acts as both a real-time gravity test
 
 | Voice of the Customer | Restated Customer Need (Explicit/Latent) |
 | :---: | :--- |
-|  | 1.  <br> 2.  <br> 3.  |
-|  | 1.  <br> 2.  <br>  3.  |
-|  | 1.  <br> 2.  <br> 3.  |
+| “I have used it once. It EVENTUALLY connects to Bluetooth on my phone but boy it takes a long time. Sometimes not at all. I don’t know. None of my other Bluetooth devices take so long. I guess it works but I am thinking they need to work on the blue tooth connectivity. I am using it inside of a steel conical but heck I am standing right next to it when I try to connect.” | 1. Easy to connect to wirelessly (Explicit) <br> 2. Should have a strong connection even through objects (Latent) <br> 3. Should be able to hold connection over long distances (Latent) |
+| “Received and would not work. After a few I relied to emails, we tried a new battery. And it came to life. In the meantime, NB sent a replacement. We are returning that one and sticking with our original unit with the new battery. Still monitoring how well it works and will decide if we get another.” | 1. Should be reliable (Explicit) <br> 2. Long battery life (Latent) <br>  3. Easy to fix (Latent) |
+| “The instructions on this device are poor. While I cannot speak on how reliable the data is meant to be read, majority of users will say this is more for seeing trends in your gravity.I didn't calibrate prior to using (because the instructions don't mention doing so).. So, now I have a poor gravity reading that has changed a few points during the entire fermentation, with an "uncalibrated" reading above that which is not being recorded...Hopefully using the calibrate feature will allow the proper readings to be uploaded to my excel next time? No clue” | 1. Easy to learn to use (Explicit) <br> 2. Could log long-term use data (Latent) <br> 3. Should record accurate and consistent measurements (Explicit) |
+
+### *Search #4:*
 
 
 | Voice of the Customer | Restated Customer Need (Explicit/Latent) |
