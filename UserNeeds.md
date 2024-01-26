@@ -34,6 +34,13 @@ The full list of product information as well as the recorded feedback from the a
 
 *Figure 6: User Needs Part 2.3*
 
+
+# Product Requirements:
+
+We went about turning the User needs we had  into practical and functional requests that would be necessary to suit the users. Some of the ideas that we had for user needs didn’t change much because they were already things we could practically implement into our device such as having an efficient battery and or power system.  Other ideas were based on derivatives of other ideas in order to give us options and or variety when say selecting what battery we might use for a power source.
+
+**Note: Use cases used to derive important characteristics can be found in [Appendix B](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixBUserNeeds)**
+
 Our teams most important characteristics are: 
 * The product should be able to read the surrounding temperature.
 * The product should be able to withstand the elements.
@@ -43,21 +50,7 @@ Our teams most important characteristics are:
 * The fan should be able to cool the surrounding area and reduce humidity.
 * The product should be able to be operated by one person or a single user.
 
-# Product Requirements:
 
-## Use Cases
-
-### User Story #1: John
-
-John is a 33 year old middle school science teacher located in Phoenix Arizona. His class is currently studying climate and weather patterns in the Sonoran Desert. Typically, they use an old fashioned thermometer and record various temperatures throughout the day. The only thing is these temperatures are only monitored during school hours as John lives 45 minutes from the local school. Creating a device that can record the outdoor temperatures while surviving the harsh desert heat would be an ideal solution to help John give more accurate data to his students and take their science class to the next level. Proposed ideas for the Uniform Climate Controller aims to help John and anyone else who is looking for accurate weather tracking and recording. 
-
-### User Story #2: William
-
-William is a 6’7” 26-year-old professional sprinter located in Miami Florida. When he’s not out running, he is inside trying to escape the heat and humidity of Florida summers. His current air conditioning setup is lacking in some regards in terms of power, and usage. William wants a way to both cool down and prevent his home from getting humid when exposed to the elements. His current unit doesn’t accurately track the humidity in the environment or keep a log of the levels of humidity and temperature. He is excited about the new Uniform Climate Controller (UCC). With his new UCC, he can properly control the air in his house and schedule/forecast the future conditions of the house to ensure that it is in a proper climate at the proper time. William can control the climate in his house from anywhere and ensure that he has a comfortable house to come home to after his runs, safe from the Florida weather. 
-
-Now William will only buy his climate control devices from UCC, for all of his comfort needs. 
-
-## Aspects
 
 
 
