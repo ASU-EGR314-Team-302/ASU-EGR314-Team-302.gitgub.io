@@ -14,7 +14,7 @@ __Price:__ $22.93<br>
 __Vendor:__ Amazon<br>
 __Description:__ Is a battery powered, high precision outdoor and indoor thermometer. It includes a humidity sensor and can display the temperature and the humidity of its surroundings. It also has a 330ft range remote sensor and backlight display. On top of that it possesses the ability to connect via wireless connection.
 
-__Positive Comments:__
+### __Positive Comments:__
 
 | Voice of the Customer | Restated Customer Need (Explicit/Latent) |
 | :---: | :--- |
@@ -22,7 +22,7 @@ __Positive Comments:__
 | “This unit has a very clear, easy to read digital screen. I like the amount of information that is available. It has clear readings for Inside and Outside Temperature along with Humidity readings for inside and out as well.” | 1. The readings are clear and easy to read. (Explicit). <br> 2. Displays the correct readings indoor and outdoors. (Explicit). <br>  3. Is easy for those who may be visually impaired or elderly  due to it being so bright and clear to see. (Latent). |
 | “This is the best indoor/outdoor thermometer I’ve had. It was easy to install and easy to read. I just touch the top of it and it lights up to show, in large print, the indoor and outdoor temperature, current conditions like clouds, rain, sun and the direction it’s going.” | 1. The device was easy to install into the home. (Explicit).<br>2. The device is easy to operate for the user. (Explicit).<br>3. The device is able to display the weather conditions. (Explicit). |
 
-__Negative Comments:__
+### __Negative Comments:__
 
 | Voice of the Customer | Restated Customer Need (Explicit/Latent) |
 | :---: | :--- |
@@ -42,7 +42,7 @@ __Price:__ $6.95($3.48/count)<br>
 __Vendor:__ Amazon<br>
 __Description:__ A small, battery powered digital hygrometer and thermometer device that comes packaged with double sided tape for easy placement.
 
-__Positive Comments:__
+### __Positive Comments:__
 
 | Voice of the Customer | Restated Customer Need (Explicit/Latent) |
 | :---: | :--- |
@@ -50,14 +50,27 @@ __Positive Comments:__
 | “Compared both thermometers to our larger and pricier thermostats; fairly accurate. Comes with an extra set of batteries for both, along with the adhesive stickers (3M brand so fairly durable). Batteries are easy to replace, though you may have to buy more stickers for the back since you have to take it off to get to the battery compartment. They can stand on their own as well. Takes several minutes for the temperature to adjust.” | 1. The thermometer is accurate at reading and displaying the temperature. (Explicit). <br> 2. The batteries are replaceable for the users so the device can have continued use . (Explicit). <br>  3. The temperature needs to be able to be read quickly. (Latent). |
 | “This was an easy and inexpensive way to replace an old hygrometer. It didn’t take up much room and seems to be accurate.” | 1. The device was inexpensive to buy for the user. (Explicit). <br> 2. It is compact and accurate at reading the temperature. (Explicit). <br>3. The device is most likely very cheap to manufacture and develop. (Latent). |
 
-__Negative Comments:__
+### __Negative Comments:__
 
 | Voice of the Customer | Restated Customer Need (Explicit/Latent) |
 | :---: | :--- |
-|  | 1.  <br> 2.  <br> 3.  |
-|  | 1.  <br> 2.  <br>  3.  |
-|  | 1.  <br> 2.  <br> 3.  |
+| “I bought a two pack and set them both side by side. Temps don't match and are about 8 degrees warmer than really is. Humidity sensors have a 4% difference. What's the point if they aren't close to accurate? | 1. The device needs to be able to read the temperature accurately. (Explicit). <br> 2. The device should be able to measure the humidity accurately. (Explicit). <br> 3. The device came in a two pack allowing the user to have multiple of the same device. (Latent). |
+| “One was broken, Saler did not help! Product feels cheaply done! Work to fix the problem on my own and was not successful. Gave up! Will not buy again!”  | 1. The devices did not all work once the user got a hold of it. (Explicit). <br> 2. The product was most likely made using cheap materials. (Latent). <br>  3. The device was not repairable by the user once it was broken. (Explicit). |
+| “I wonder how long they were on before I got them? They did send extra batteries but it would've been nice if they worked. Wondering if this is a joke and I'll be getting ones that actually work tomorrow?” | 1. The devices did not work when the user finally got it. (Explicit). <br> 2.  <br> 3. The device while cheap did not seem to be accurate or working for most users and often had discrepancies in their temperature measurements. (Latent). |
 
+### *Search #3:*
+
+__Keywords:__ Hydrometer <br> __Search Results Link:__ 
+[Blue Digital Hydrometer and Thermometer](https://www.northernbrewer.com/products/tilt-wireless-hydrometer-and-thermometer-blue?variant=9723981561900&srsltid=AfmBOooeo0ciwBNmROxXwimPRIJIK0tksyrl0bFT8KHkPPntDZ0KQjFTvt8)
+
+<img src="docs\assets\images\hydrometer2.png" width="250" height="250">
+
+__Selected Products:__ [Blue Digital Hydrometer and Thermometer](https://www.northernbrewer.com/products/tilt-wireless-hydrometer-and-thermometer-blue?variant=9723981561900&srsltid=AfmBOooeo0ciwBNmROxXwimPRIJIK0tksyrl0bFT8KHkPPntDZ0KQjFTvt8)<br>
+__Price:__ $135 <br> 
+__Vendor:__ Northern Brewer <br> 
+__Description:__ This free-floating gadget acts as both a real-time gravity testing hydrometer and thermometer from inside your fermenter during fermentation.
+
+### __Positive Comments:__
 
 | Voice of the Customer | Restated Customer Need (Explicit/Latent) |
 | :---: | :--- |
