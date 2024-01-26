@@ -74,10 +74,11 @@ __Description:__ This free-floating gadget acts as both a real-time gravity test
 
 | Voice of the Customer | Restated Customer Need (Explicit/Latent) |
 | :---: | :--- |
-|  | 1.  <br> 2.  <br> 3.  |
-|  | 1.  <br> 2.  <br>  3.  |
-|  | 1.  <br> 2.  <br> 3.  |
+| “Works well. I can check the specific gravity and temperature from anywhere in my house. So much easier to use than the "manual" hydrometers I have used and no waste of wort to take samples.” | 1. Monitor over WiFi (Explicit) <br> 2. More convenient than manual measuring tools (latent) <br> 3. Accurate Measurements (Explicit) |
+| “No more mess and no more increased risk of contamination as the Digital Hydrometer just floats in the primary sending out its bluetooth signal. The app could certainly be so much better with data logging, graphing, etc., but it works just fine, giving you the current reading of specific gravity and temperature. I just keep a log to trend the fermentaion progress in a basic excel file. The accuracy seems spot on compared with a couple of confirmation samples I tested.” | 1. Decreased contamination (because of WiFi monitoring) (Explicit) <br> 2. Would benefit from logging past data (Explicit) <br>  3. Electricals could be protected from outside factors (waterproof etc.) (Latent) |
+| “Works great. Important info garnered without having to sample or otherwise be invasive to the fermenting wort.” | 1. Noninvasive sampling (Latent) <br> 2. Clearly Displays important information (Explicit) <br> 3. Simple to use |
 
+### __Negative Comments:__
 
 | Voice of the Customer | Restated Customer Need (Explicit/Latent) |
 | :---: | :--- |
