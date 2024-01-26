@@ -52,7 +52,7 @@ Our teams most important characteristics are:
 
 <br> 
 
-**Note: Use cases used to derive important characteristics can be found in [Appendix D](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixDRequirements)**
+**Note: Use cases, aspects, and compiled needs used to derive important characteristics can be found in [Appendix D](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixDRequirements)**
 
 
 
