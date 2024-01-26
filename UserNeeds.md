@@ -39,7 +39,7 @@ The full list of product information as well as the recorded feedback from the a
 
 We went about turning the User needs we had  into practical and functional requests that would be necessary to suit the users. Some of the ideas that we had for user needs didn’t change much because they were already things we could practically implement into our device such as having an efficient battery and or power system.  Other ideas were based on derivatives of other ideas in order to give us options and or variety when say selecting what battery we might use for a power source.
 
-**Note: Use cases used to derive important characteristics can be found in [Appendix B](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixBUserNeeds)**
+
 
 Our teams most important characteristics are: 
 * The product should be able to read the surrounding temperature.
@@ -50,7 +50,9 @@ Our teams most important characteristics are:
 * The fan should be able to cool the surrounding area and reduce humidity.
 * The product should be able to be operated by one person or a single user.
 
+<br> 
 
+**Note: Use cases used to derive important characteristics can be found in [Appendix D](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixDRequirements)**
 
 
 
@@ -58,3 +60,4 @@ Our teams most important characteristics are:
 
 [Appendix B: User Needs, Benchmarking, and Requirements](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixBUserNeeds)
 
+[Appendix D: Product Requirements](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixDRequirements)
