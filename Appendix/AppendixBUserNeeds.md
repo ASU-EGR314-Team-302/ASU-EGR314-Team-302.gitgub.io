@@ -11,7 +11,9 @@ __Search Results Link:__ [Indoor Outdoor Thermometer](https://www.amazon.com/The
 __Selected Products:__ [Indoor Outdoor Thermometer](https://www.amazon.com/Thermometer-Hygrometer-Precision-Temperature-Backlight/dp/B09FSYJZSH/ref=sr_1_1_sspa?crid=1VE0088YQC562&dib=eyJ2IjoiMSJ9.Ed_T58PZMWvZTM11bvKcEIgkwtY5jhdnkWoHQOB0dDWV7yedOdFHkceOgl4bF5gfjMNqkn05cd1DPY7ydrMiXJsW9aHIIXpbyBLA0EyQRRHhzOL-jgHiaKi3faA5DNrEmYHBbw3XjbyqEEpMIQWjIcPQXz6pLX0MMtUV1Bz5q_0u9-U2UN_43Ab-DMvoNT69UtXxNEkMCmxmjMEen32ROIKfQjDQfyEegLLPyYJuu8E.jhXlJ3KnqLuOCv5efiLIoJkvvGz2Y3oEtjYBczr0tdA&dib_tag=se&keywords=temperature+monitor+outdoor&qid=1705349288&sprefix=temperature+monit%2Caps%2C138&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
 __Price:__ $22.93
+
 __Vendor:__ Amazon
+
 __Description:__ Is a battery powered, high precision outdoor and indoor thermometer. It includes a humidity sensor and can display the temperature and the humidity of its surroundings. It also has a 330ft range remote sensor and backlight display. On top of that it possesses the ability to connect via wireless connection.
 
 __Positive Comments:__
