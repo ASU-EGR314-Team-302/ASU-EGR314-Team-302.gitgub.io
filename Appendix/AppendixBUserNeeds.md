@@ -35,5 +35,53 @@ __Negative Comments:__
 __Keywords:__ Indoor Hygrometer <br> 
 __Search Results Link:__ [Mini Hygrometer Thermometer](https://www.amazon.com/AikTryee-Hygrometer-Upgraded-Temperature-Greenhouse/dp/B07QMZL448/ref=sr_1_7?keywords=hygrometer&qid=1705350045&sr=8-7)
 
-<img src="docs\assets\images\hydrometer.png" width="250" height="250">
+<img src="https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/hydrometer.png" width="250" height="250">
 
+__Selected Products:__ [Mini Hygrometer Thermometer](https://www.amazon.com/AikTryee-Hygrometer-Upgraded-Temperature-Greenhouse/dp/B07QMZL448/ref=sr_1_7?keywords=hygrometer&qid=1705350045&sr=8-7)<br>
+__Price:__ $6.95($3.48/count)<br>
+__Vendor:__ Amazon<br>
+__Description:__ A small, battery powered digital hygrometer and thermometer device that comes packaged with double sided tape for easy placement.
+
+__Positive Comments:__
+
+| Voice of the Customer | Restated Customer Need (Explicit/Latent) |
+| :---: | :--- |
+| As you can see, the temperature reading is very small, and you can't really read it unless you're looking straight at it, but it worked well enough. I was able to calculate during the cold wave the duration I'd have to leave my heater on in order to keep the temperature at 65F. I live in Louisiana so the cold wave didn't last long, but this really saved me a lot of anxiety.” | 1. Product circuitry must operate in cold temperatures. (Explicit) <br> 2. Reduced the stress of the user by assisting them with reading the temperature. (Latent). <br> 3. The product could stand to be bigger and easier to read. (Latent). |
+| “Compared both thermometers to our larger and pricier thermostats; fairly accurate. Comes with an extra set of batteries for both, along with the adhesive stickers (3M brand so fairly durable). Batteries are easy to replace, though you may have to buy more stickers for the back since you have to take it off to get to the battery compartment. They can stand on their own as well. Takes several minutes for the temperature to adjust.” | 1. The thermometer is accurate at reading and displaying the temperature. (Explicit). <br> 2. The batteries are replaceable for the users so the device can have continued use . (Explicit). <br>  3. The temperature needs to be able to be read quickly. (Latent). |
+| “This was an easy and inexpensive way to replace an old hygrometer. It didn’t take up much room and seems to be accurate.” | 1. The device was inexpensive to buy for the user. (Explicit). <br> 2. It is compact and accurate at reading the temperature. (Explicit). <br>3. The device is most likely very cheap to manufacture and develop. (Latent). |
+
+__Negative Comments:__
+
+| Voice of the Customer | Restated Customer Need (Explicit/Latent) |
+| :---: | :--- |
+|  | 1.  <br> 2.  <br> 3.  |
+|  | 1.  <br> 2.  <br>  3.  |
+|  | 1.  <br> 2.  <br> 3.  |
+
+
+| Voice of the Customer | Restated Customer Need (Explicit/Latent) |
+| :---: | :--- |
+|  | 1.  <br> 2.  <br> 3.  |
+|  | 1.  <br> 2.  <br>  3.  |
+|  | 1.  <br> 2.  <br> 3.  |
+
+
+| Voice of the Customer | Restated Customer Need (Explicit/Latent) |
+| :---: | :--- |
+|  | 1.  <br> 2.  <br> 3.  |
+|  | 1.  <br> 2.  <br>  3.  |
+|  | 1.  <br> 2.  <br> 3.  |
+
+
+| Voice of the Customer | Restated Customer Need (Explicit/Latent) |
+| :---: | :--- |
+|  | 1.  <br> 2.  <br> 3.  |
+|  | 1.  <br> 2.  <br>  3.  |
+|  | 1.  <br> 2.  <br> 3.  |
+
+
+| Voice of the Customer | Restated Customer Need (Explicit/Latent) |
+| :---: | :--- |
+|  | 1.  <br> 2.  <br> 3.  |
+|  | 1.  <br> 2.  <br>  3.  |
+|  | 1.  <br> 2.  <br> 3.  |
