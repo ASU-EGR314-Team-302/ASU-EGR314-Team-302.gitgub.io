@@ -1,6 +1,10 @@
-Edit and commit with your name below:
+## EGR314 Team 302 Repository
 
-* Alijah's commit
-* Jason's Commit
-* Justin's commit
-* Evan's commit
+### Members:
+* Alijah Williams
+* Jason Klinkbeil
+* Evan Lininger
+* Justin Hanson
+
+
+
