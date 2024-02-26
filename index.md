@@ -25,7 +25,17 @@
 
 [4. Presentation 1](/ASU-EGR314-Team-302.gitgub.io//Presentation1)
 
-[5. Appendix Directory](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixMain)
+[5. Selected Design](/ASU-EGR314-Team-302.gitgub.io//SelectedDesign)
+
+[6. Block Diagram](/ASU-EGR314-Team-302.gitgub.io//BlockDiagram)
+
+[7. Component Selection](/ASU-EGR314-Team-302.gitgub.io//ComponentSelection)
+
+[8. Hardware Proposal](/ASU-EGR314-Team-302.gitgub.io//HardwareProposal)
+
+[9. Software Proposal](/ASU-EGR314-Team-302.gitgub.io//SoftwareProposal)
+
+[10. Appendix Directory](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixMain)
 
 <br>
 <br>
