@@ -12,30 +12,39 @@
 
 ## Preparation Date: 2/23/2024
 
+<!--
+[Table of Contents](#table-of-contents)  
+example of link to a header
+
+[Link to Example Header](page1.md#example-header)
+Link to header on other page
+-->
 
 ## Arizona State University - EGR314 Spring 24' - Professor Kevin Nichols 
 
 ## Table of Contents
 
-[1. Team Organization](/ASU-EGR314-Team-302.gitgub.io//TeamOrganization)
+1. [Team Organization](TeamOrganization.md)
 
-[2. User Needs, Benchmarking, and Rquirements](/ASU-EGR314-Team-302.gitgub.io//UserNeeds)
+    1. [Team Charter](TeamOrganization.md#team-charter)
 
-[3. Design Ideation](/ASU-EGR314-Team-302.gitgub.io//DesignIdeation)
+2. [User Needs, Benchmarking, and Rquirements](/ASU-EGR314-Team-302.gitgub.io//UserNeeds)
 
-[4. Presentation 1](/ASU-EGR314-Team-302.gitgub.io//Presentation1)
+3. [Design Ideation](/ASU-EGR314-Team-302.gitgub.io//DesignIdeation)
 
-[5. Selected Design](/ASU-EGR314-Team-302.gitgub.io//SelectedDesign)
+4. [Presentation 1](/ASU-EGR314-Team-302.gitgub.io//Presentation1)
 
-[6. Block Diagram](/ASU-EGR314-Team-302.gitgub.io//BlockDiagram)
+5. [Selected Design](/ASU-EGR314-Team-302.gitgub.io//SelectedDesign)
 
-[7. Component Selection](/ASU-EGR314-Team-302.gitgub.io//ComponentSelection)
+6. [Block Diagram](/ASU-EGR314-Team-302.gitgub.io//BlockDiagram)
 
-[8. Hardware Proposal](/ASU-EGR314-Team-302.gitgub.io//HardwareProposal)
+7. [Component Selection](/ASU-EGR314-Team-302.gitgub.io//ComponentSelection)
 
-[9. Software Proposal](/ASU-EGR314-Team-302.gitgub.io//SoftwareProposal)
+8. [Hardware Proposal](/ASU-EGR314-Team-302.gitgub.io//HardwareProposal)
 
-[10. Appendix Directory](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixMain)
+9. [Software Proposal](/ASU-EGR314-Team-302.gitgub.io//SoftwareProposal)
+
+10. [Appendix Directory](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixMain)
 
 <br>
 <br>
