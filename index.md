@@ -48,6 +48,19 @@ Link to header on other page
 
 7. [Component Selection](ComponentSelection.md)
 
+    1. [Power Source](ComponentSelection.md#power-source)
+
+    2. [Temperature Sensor](ComponentSelection.md#temperature-sensor)
+
+    3. [Fan Motor](ComponentSelection.md#fan-motor)
+
+    4. [Humidity Sensor](ComponentSelection.md#humidity-sensor)
+
+    5. [Voltage Regulator](ComponentSelection.md#voltage-regulator)
+
+    6. [Motor Controller](ComponentSelection.md#motor-controller)
+
+
 8. [Hardware Proposal](HardwareProposal.md)
 
 9. [Software Proposal](SoftwareProposal.md)
