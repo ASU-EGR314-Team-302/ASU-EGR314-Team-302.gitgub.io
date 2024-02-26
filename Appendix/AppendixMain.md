@@ -2,24 +2,42 @@
 
 1. [Appendix A](#appendix-a)
     1. [Table 1A: Team Member Communication Modes](#table-1-team-member-communication-modes)
+
     2. [Communication Procedures](#communication-procedures)
+
     3. [Figure 1A: Meeting Schedule](#figure-1-meeting-schedule)
+
     4. [Roles & Responsibilities](#roles--responsibilities)
+
     5. [Table 2A: Project Roles and Duties](#table-2-project-roles-and-duties)
+
     6. [Team Coordination & Accountability](#team-coordination--accountability)
+
     7. [Conflict Recognition & Resolution](#conflict-recognition--resolution)
+
 2. [Appendix B](#appendix-b)
     1. [Voices of Customeers (VOC) Benchmarking](#voices-of-customers-voc-benchmarking)
+
     2. [Search #1](#search-1)
+
     3. [Search #2](#search-2)
+
     4. [Search #3](#search-3)
+
     5. [Search #4](#search-4)
+
     6. [Search #5](#search-5)
+
 3. [Appendix C](#appendix-c)
+
 4. [Appendix D](#appendix-d)
+
     1. [Use Cases](#use-cases)
+
     2. [Aspects](#aspects)
+
     3. [Open Questions](#open-questions)
+    
     4. [Compiled List of Needs](#compiled-list-of-needs)
 
 
