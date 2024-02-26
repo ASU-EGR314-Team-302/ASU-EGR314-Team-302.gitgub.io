@@ -22,10 +22,10 @@ After reviewing the criteria listed in the introduction, our group came together
 
 Once our goals were established, we began focusing on creating a more refined mission statement that would encompass what matters to us most. Our team's mission statement is to design a reliable product that focuses on sustainability and longevity that is simple yet effective at monitoring and recording environmental changes in temperature and humidity. This mission statement focuses on reliability and sustainability. In addition, we also chose to use temperature and humidity during this stage as our two different weather condition sensors. 
 
-The next step was to create a system of communication for the team outside of class as well as establishing a meeting schedule. These charts as well as our conflict resolution plans can be seen in [Appendix A: Team Organization.](/Appendix/AppendixATeamOrganization.md)
+The next step was to create a system of communication for the team outside of class as well as establishing a meeting schedule. These charts as well as our conflict resolution plans can be seen in [Appendix A](/Appendix/AppendixMain.md#appendix-a)
 
 ### Links:
-[Appendix A: Team Organization.](/Appendix/AppendixATeamOrganization.md)
+[Appendix A](/Appendix/AppendixMain.md#appendix-a)
 
 [Appendix Directory](/Appendix/AppendixMain.md)
 
