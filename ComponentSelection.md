@@ -60,7 +60,7 @@ The rationale behind choosing this device is the fact that it is easy to work wi
 
 <img src="https://github.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/blob/main/docs/assets/images/ComponentSelection/Fan1.png?raw=true" width="250" height="250">
 
-[P/N : FAN AXIAL 80X25MM 12VDC WIRE](https://www.digikey.com/en/products/detail/sunon-fans/MF80251V1-1000U-A99/6198742)
+### [P/N : FAN AXIAL 80X25MM 12VDC WIRE](https://www.digikey.com/en/products/detail/sunon-fans/MF80251V1-1000U-A99/6198742)
 
 __Price:__ $5.35
 
@@ -85,7 +85,7 @@ When comparing the current draw, this option stands out as the most efficient ch
 
 <img src="https://github.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/blob/main/docs/assets/images/ComponentSelection/Humidity1.png?raw=true" width="250" height="250">
 
-[SHT40-AD1B-R3 SENSOR HUMIDITY 100 RH SMD](https://www.digikey.com/en/products/detail/sensirion-ag/SHT40-AD1B-R3/14322745?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_High%20ROAS%20Categories&utm_term=&utm_content=&gad_source=1&gclid=Cj0KCQiA2eKtBhDcARIsAEGTG41s33z3UHhaN_Wfv7frLkhKEVcCBNEsK3b1XG1w6-CIsAzgrqwDjcsaAtFmEALw_wcB)
+### [SHT40-AD1B-R3 SENSOR HUMIDITY 100 RH SMD](https://www.digikey.com/en/products/detail/sensirion-ag/SHT40-AD1B-R3/14322745?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_High%20ROAS%20Categories&utm_term=&utm_content=&gad_source=1&gclid=Cj0KCQiA2eKtBhDcARIsAEGTG41s33z3UHhaN_Wfv7frLkhKEVcCBNEsK3b1XG1w6-CIsAzgrqwDjcsaAtFmEALw_wcB)
 
 __Price:__ $2.49
 
@@ -110,7 +110,7 @@ The reasoning behind this choice is that it has the most informative data sheet,
 
 <img src="https://github.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/blob/main/docs/assets/images/ComponentSelection/Voltage2.png?raw=true" width="250" height="250">
 
-[IC REG LIN POS ADJ 1A/1A HRP-5](https://www.digikey.com/en/products/detail/rohm-semiconductor/BA3259HFP-TR/2673685?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArAHZaiECkgYcBYmRBxp1OcxDtOPASPGEwFAEwJoCtFjyESkcmC1gwkpqw6RufIaLEJEHN1WgA6WgA1AAIANyJMNnRhXGjeXGEAV0x0NiJeJjEgA)
+### [IC REG LIN POS ADJ 1A/1A HRP-5](https://www.digikey.com/en/products/detail/rohm-semiconductor/BA3259HFP-TR/2673685?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIAuoQA4AuUIAymwE4CWAOwDmIAL6EArAHZaiECkgYcBYmRBxp1OcxDtOPASPGEwFAEwJoCtFjyESkcmC1gwkpqw6RufIaLEJEHN1WgA6WgA1AAIANyJMNnRhXGjeXGEAV0x0NiJeJjEgA)
 
 __Price:__ $0.84
 
@@ -135,7 +135,7 @@ This regulator was selected because it suits most of our power supply needs as f
 
 <img src="https://github.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/blob/main/docs/assets/images/ComponentSelection/MotorCon1.png?raw=true" width="250" height="250">
 
-[P/N: IC MOTOR DRVR UNIPLR 8SO PWRPAD](https://www.digikey.com/en/products/detail/texas-instruments/DRV8870DDAR/5428828)
+### [P/N: IC MOTOR DRVR UNIPLR 8SO PWRPAD](https://www.digikey.com/en/products/detail/texas-instruments/DRV8870DDAR/5428828)
 
 __Price:__ $2.13
 
