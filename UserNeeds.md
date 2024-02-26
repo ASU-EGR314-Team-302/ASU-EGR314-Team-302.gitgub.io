@@ -50,9 +50,17 @@ Our teams most important characteristics are:
 * The fan should be able to cool the surrounding area and reduce humidity.
 * The product should be able to be operated by one person or a single user.
 
-<br> 
+<br>
 
 **Note: Use cases, aspects, and compiled needs used to derive important characteristics can be found in [Appendix D](/Appendix/AppendixMain.md#appendix-d)**
+
+<br> 
+
+After moving through the component selection, software, and hardware proposals, our team has concluded that all of these design aspects are attainable for our project. The [Selected Design](SelectedDesign.md) page, will go more in depth on our final design choice and the resonings behind it.
+
+
+
+
 
 
 
