@@ -2,20 +2,20 @@
 
 # Team Organization
 
-## Introduction
+<!--## Introduction
 
-For this semester, our team was assigned with creating a mobile weather station that utilizes two different weather condition sensors to record and operate a motor via wifi connection. The allowed sensors are: 
+ For this semester, our team was assigned with creating a mobile weather station that utilizes two different weather condition sensors to record and operate a motor via wifi connection. The allowed sensors are: 
 * Temperature
 * Humidity
 * Atmospheric pressure
 * Wind speed
 
-The motor must additionally be controlled by a motor controller communicating over the I2C or SPI-based protocol. Once completed, the assigned projects will then be displayed at an innovation showcase where a working model is required.
+The motor must additionally be controlled by a motor controller communicating over the I2C or SPI-based protocol. Once completed, the assigned projects will then be displayed at an innovation showcase where a working model is required. -->
 
 
 ## Team Charter
 
-After reviewing the above criteria, our group came together and started by outlining a team goal. Our group's goal is to make a functional device that can measure both the external temperature of its surroundings and the humidity. It will then record the values via a wifi connection and regulate the measured temperature and humidity. Additionally, it will activate a fan that will have a veritable wind speed based on the recorded temperature and or humidity to make sure the surroundings are at a temperate condition. The personal goals that our team aims to achieve by working on this project include developing our professional skill set, gaining experience in a more professional environment, sharing our knowledge with others, developing a product that fulfills our expectations, creating something that we could develop further into a marketable product, and exploring our passions throughout the creation of this product.
+After reviewing the criteria listed in the introduction, our group came together and started by outlining a team goal. Our group's goal is to make a functional device that can measure both the external temperature of its surroundings and the humidity. It will then record the values via a wifi connection and regulate the measured temperature and humidity. Additionally, it will activate a fan that will have a veritable wind speed based on the recorded temperature and or humidity to make sure the surroundings are at a temperate condition. The personal goals that our team aims to achieve by working on this project include developing our professional skill set, gaining experience in a more professional environment, sharing our knowledge with others, developing a product that fulfills our expectations, creating something that we could develop further into a marketable product, and exploring our passions throughout the creation of this product.
 
 
 ## Mission Statement
@@ -27,4 +27,5 @@ The next step was to create a system of communication for the team outside of cl
 ### Links:
 [Appendix A: Team Organization.](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixATeamOrganization)
 
+[Appendix Directory](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixMain)
 
