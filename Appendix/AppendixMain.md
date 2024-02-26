@@ -28,9 +28,9 @@
 
     6. [Search #5](#emsearch-5em)
 
-3. [Appendix C](#emappendix-cem)
+3. [Appendix C](#appendix-c)
 
-4. [Appendix D](#emappendix-dem)
+4. [Appendix D](#appendix-d)
 
     1. [Use Cases](#use-cases)
 
