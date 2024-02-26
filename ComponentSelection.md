@@ -157,7 +157,10 @@ We choose this motor controller because it is small and easier to integrate into
 
 ## Power Budget
 
-[Link to Power Budget](https://github.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/blob/main/PowerBudget.pdf)
+[Link to Power Budget](PowerBudget.pdf)
+
+<object data="PowerBudget.pdf" width="1000" height="1000" type='application/pdf'/>
+
 
 <!--
 __NOTE:__ See [Appendix E](/Appendix/AppendixMain.md#appendix-e) for other component considerations. 
