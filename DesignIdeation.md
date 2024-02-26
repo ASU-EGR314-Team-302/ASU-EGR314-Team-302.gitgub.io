@@ -2,7 +2,7 @@
 
 Now that we had viewed several different concepts and identified what we valued most, our team began generating ideas. We created a Google Jam Board to record all of our ideas and began brainstorming. During this process, no ideas were bad ideas as general topics such as batteries, sparked many additional ideas. Once we had these ideas, we then categorized and ranked them into what we identified as three different topics. These topics included appearance, power and functionality. The organized list of ideas can be seen below.
 
-**Note:** See [Appendix C: Design Ideation.](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixCDesignIdeation) for full list of ideas.
+**Note:** See [Appendix C](/Appendix/AppendixMain.md#appendix-c) for full list of ideas.
 
 ![Ideation List 1](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/Ideation1.png)
 
@@ -34,4 +34,6 @@ This design consists of 2 environmental sensors, which detect the temperature an
 
 ### Links:
 
-[Appendix C: Design Ideation](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixCDesignIdeation)
+[Appendix C](/Appendix/AppendixMain.md#appendix-c)
+
+[Title Page](/index.md)

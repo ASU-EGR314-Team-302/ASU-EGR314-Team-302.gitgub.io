@@ -12,7 +12,7 @@ Now that the team has a goal and a work schedule created, the next step was to c
 * Tower fan
 * Humidity Controller
 
-The full list of product information as well as the recorded feedback from the assignments can be found in [Appendix B](/Appendix/AppendixBUserNeeds.md) We then copied all the user needs recorded onto a Google Jam board for easier management as well as adding a few other key notes that we discovered while viewing other products. This list can be seen below: 
+The full list of product information as well as the recorded feedback from the assignments can be found in [Appendix B](/Appendix/AppendixMain.md#appendix-b) We then copied all the user needs recorded onto a Google Jam board for easier management as well as adding a few other key notes that we discovered while viewing other products. This list can be seen below: 
 
 ![Part 1.0 figure](/docs/assets/images/Part1.0.png)
 
@@ -52,12 +52,14 @@ Our teams most important characteristics are:
 
 <br> 
 
-**Note: Use cases, aspects, and compiled needs used to derive important characteristics can be found in [Appendix D](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixDRequirements)**
+**Note: Use cases, aspects, and compiled needs used to derive important characteristics can be found in [Appendix D](/Appendix/AppendixMain.md#appendix-d)**
 
 
 
 ### Links:
 
-[Appendix B: User Needs, Benchmarking, and Requirements](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixBUserNeeds)
+[Appendix B](/Appendix/AppendixMain.md#appendix-b)
 
-[Appendix D: Product Requirements](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixDRequirements)
+[Appendix D](/Appendix/AppendixMain.md#appendix-d)
+
+[Title Page](/index.md)

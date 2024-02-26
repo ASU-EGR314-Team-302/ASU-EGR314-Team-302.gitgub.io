@@ -27,7 +27,5 @@ The next step was to create a system of communication for the team outside of cl
 ### Links:
 [Appendix A](/Appendix/AppendixMain.md#appendix-a)
 
-[Appendix Directory](/Appendix/AppendixMain.md)
-
 [Title Page](/index.md)
 
