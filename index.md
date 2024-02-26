@@ -60,6 +60,7 @@ Link to header on other page
 
     6. [Motor Controller](ComponentSelection.md#motor-controller)
 
+    7. [Power Budget](ComponentSelection.md#power-budget)
 
 8. [Hardware Proposal](HardwareProposal.md)
 
