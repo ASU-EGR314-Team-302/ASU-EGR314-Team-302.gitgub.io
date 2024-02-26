@@ -5,32 +5,32 @@
 
     2. [Communication Procedures](#communication-procedures)
 
-    3. [Figure 1A: Meeting Schedule](#figure-1-meeting-schedule)
+    3. [Figure 1A: Meeting Schedule](#emfigure-1-meeting-scheduleem)
 
-    4. [Roles & Responsibilities](#roles--responsibilities)
+    4. [Roles & Responsibilities](#roles-amp-responsibilities)
 
-    5. [Table 2A: Project Roles and Duties](#table-2-project-roles-and-duties)
+    5. [Table 2A: Project Roles and Duties](#emtable-2-project-roles-and-dutiesem)
 
-    6. [Team Coordination & Accountability](#team-coordination--accountability)
+    6. [Team Coordination & Accountability](#team-coordination-amp-accountability)
 
-    7. [Conflict Recognition & Resolution](#conflict-recognition--resolution)
+    7. [Conflict Recognition & Resolution](#conflict-recognition-amp-resolution)
 
 2. [Appendix B](#appendix-b)
     1. [Voices of Customeers (VOC) Benchmarking](#voices-of-customers-voc-benchmarking)
 
-    2. [Search #1](#search-1)
+    2. [Search #1](#emsearch-1em)
 
-    3. [Search #2](#search-2)
+    3. [Search #2](#emsearch-2em)
 
-    4. [Search #3](#search-3)
+    4. [Search #3](#emsearch-3em)
 
-    5. [Search #4](#search-4)
+    5. [Search #4](#emsearch-4em)
 
-    6. [Search #5](#search-5)
+    6. [Search #5](#emsearch-5em)
 
-3. [Appendix C](#appendix-c)
+3. [Appendix C](#emappendix-cem)
 
-4. [Appendix D](#appendix-d)
+4. [Appendix D](#emappendix-dem)
 
     1. [Use Cases](#use-cases)
 
@@ -419,7 +419,7 @@ Now William will only buy his climate control devices from UCC, for all of his c
 
 <br>
 
-### __Open Questions:__
+### Open Questions:
 ---
 * Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
 * Can we improve on failing or self-igniting batteries?
@@ -429,7 +429,7 @@ Now William will only buy his climate control devices from UCC, for all of his c
 
 <br>
 
-### __Compiled List of Needs__
+### Compiled List of Needs
 ---
 | No. | Needs                                      | Category      | Explicit/Implicit |
 |-----|--------------------------------------------|---------------|-------------------|
