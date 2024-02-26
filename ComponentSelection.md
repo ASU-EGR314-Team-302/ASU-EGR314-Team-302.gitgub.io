@@ -157,7 +157,7 @@ We choose this motor controller because it is small and easier to integrate into
 
 ## Power Budget
 
-[Link to Power Budget](Power%20Budget%20Example.html)
+
 
 <!--
 __NOTE:__ See [Appendix E](/Appendix/AppendixMain.md#appendix-e) for other component considerations. 
