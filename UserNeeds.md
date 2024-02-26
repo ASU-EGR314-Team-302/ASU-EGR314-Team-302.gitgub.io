@@ -35,7 +35,7 @@ The full list of product information as well as the recorded feedback from the a
 *Figure 6: User Needs Part 2.3*
 
 
-# Product Requirements:
+## Product Requirements:
 
 We went about turning the User needs we had  into practical and functional requests that would be necessary to suit the users. Some of the ideas that we had for user needs didn’t change much because they were already things we could practically implement into our device such as having an efficient battery and or power system.  Other ideas were based on derivatives of other ideas in order to give us options and or variety when, for example, selecting what battery we might use for a power source.
 

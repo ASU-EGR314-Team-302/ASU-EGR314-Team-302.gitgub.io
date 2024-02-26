@@ -20,6 +20,8 @@ example of link to a header
 Link to header on other page
 -->
 
+
+
 ## Arizona State University - EGR314 Spring 24' - Professor Kevin Nichols 
 
 ## Table of Contents
@@ -28,23 +30,29 @@ Link to header on other page
 
     1. [Team Charter](TeamOrganization.md#team-charter)
 
-2. [User Needs, Benchmarking, and Rquirements](/ASU-EGR314-Team-302.gitgub.io//UserNeeds)
+    2. [Mission Statement](TeamOrganization.md#Mission-Statement)
 
-3. [Design Ideation](/ASU-EGR314-Team-302.gitgub.io//DesignIdeation)
+2. [User Needs, Benchmarking, and Rquirements](UserNeeds.md)
 
-4. [Presentation 1](/ASU-EGR314-Team-302.gitgub.io//Presentation1)
+    1. [Establishing User Needs and Benchmarcks](UserNeeds.md#establishing-user-needs-and-benchmarks)
 
-5. [Selected Design](/ASU-EGR314-Team-302.gitgub.io//SelectedDesign)
+    2. [Product Requirements](UserNeeds.md#product-requirements)
 
-6. [Block Diagram](/ASU-EGR314-Team-302.gitgub.io//BlockDiagram)
+3. [Design Ideation](DesignIdeation.md)
 
-7. [Component Selection](/ASU-EGR314-Team-302.gitgub.io//ComponentSelection)
+4. [Presentation 1](#team-302-presentation-1)
 
-8. [Hardware Proposal](/ASU-EGR314-Team-302.gitgub.io//HardwareProposal)
+5. [Selected Design](SelectedDesign.md)
 
-9. [Software Proposal](/ASU-EGR314-Team-302.gitgub.io//SoftwareProposal)
+6. [Block Diagram](BlockDiagram.md)
 
-10. [Appendix Directory](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixMain)
+7. [Component Selection](ComponentSelection.md)
+
+8. [Hardware Proposal](HardwareProposal.md)
+
+9. [Software Proposal](SoftwareProposal.md)
+
+10. [Appendix Directory](Appendix/AppendixMain.md)
 
 <br>
 <br>
