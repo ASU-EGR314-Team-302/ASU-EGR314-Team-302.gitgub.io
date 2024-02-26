@@ -18,19 +18,19 @@ The full list of product information as well as the recorded feedback from the a
 
 *Figure 2: User Needs Part 1.0*
 
-![Part 1.1 figure](/docs/assets/images/Part1.1.png)
+![Part 1.1 figure](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/Part1.1.png)
 
 *Figure 3: User Needs Part 1.1*
 
-![Part 2.1 figure](/docs/assets/images/Part2.1.png)
+![Part 2.1 figure](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/Part2.1.png)
 
 *Figure 4: User Needs Part 2.1*
 
-![Part 2.2 figure](/docs/assets/images/Part2.2.png)
+![Part 2.2 figure](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/Part2.2.png)
 
 *Figure 5: User Needs Part 2.2*
 
-![Part 2.3 figure](/docs/assets/images/Part2.3.png) 
+![Part 2.3 figure](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/Part2.3.png) 
 
 *Figure 6: User Needs Part 2.3*
 
@@ -52,14 +52,12 @@ Our teams most important characteristics are:
 
 <br> 
 
-**Note: Use cases, aspects, and compiled needs used to derive important characteristics can be found in [Appendix D](/Appendix/AppendixDRequirements.md)**
+**Note: Use cases, aspects, and compiled needs used to derive important characteristics can be found in [Appendix D](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixDRequirements)**
 
 
 
 ### Links:
 
-[Appendix B: User Needs, Benchmarking, and Requirements](/Appendix/AppendixBUserNeeds.md)
+[Appendix B: User Needs, Benchmarking, and Requirements](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixBUserNeeds)
 
-[Appendix D: Product Requirements](/Appendix/AppendixDRequirements.md)
-
-[Title Page](/index.md)
+[Appendix D: Product Requirements](/ASU-EGR314-Team-302.gitgub.io//Appendix/AppendixDRequirements)
