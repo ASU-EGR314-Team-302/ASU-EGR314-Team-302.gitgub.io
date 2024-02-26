@@ -40,6 +40,8 @@
     
     4. [Compiled List of Needs](#compiled-list-of-needs)
 
+<!--5.  [Appendix E](#appendix-e) -->
+
 
 <br><br>
 
@@ -536,6 +538,11 @@ Now William will only buy his climate control devices from UCC, for all of his c
 | 98  | Stimulating: The device stimulates the user by use of the fans to cool them | General       | Implicit          |
 | 99  | Bendable: The device can be bent or twisted a bit so as to give it more freedom of movement for the user. | General       | Implicit          |
 | 100 | Fixable: The device can be repaired by the user. | General       | Explicit          |
+
+<br>
+
+<!--## Appendix E-->
+
 
 
 ### Links:

@@ -154,3 +154,6 @@ __Rationale:__
 We choose this motor controller because it is small and easier to integrate into our system through soldering. Rather than having to bake it on or solder a lot of pins it works with only 8 pins. Additionally, it has ecad and footprint models in digikey which allows us to implement it into our schematic and PCB’s far more easily. Meets the requirements of what we need in a motor driver for our product.
 
 <br>
+<!--
+__NOTE:__ See [Appendix E](/Appendix/AppendixMain.md#appendix-e) for other component considerations. 
+-->
