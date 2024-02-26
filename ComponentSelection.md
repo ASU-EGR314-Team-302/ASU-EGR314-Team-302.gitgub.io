@@ -159,7 +159,7 @@ We choose this motor controller because it is small and easier to integrate into
 
 [Link to Power Budget](PowerBudget.pdf)
 
-<object data="PowerBudget.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="PowerBudget.pdf" width="1000" height="1000" type='application/pdf'>
 
 
 <!--
