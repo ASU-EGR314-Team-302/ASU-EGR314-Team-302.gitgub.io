@@ -6,6 +6,6 @@ Ask team for summaries for this page
 
 [Link to Team Schematic](TeamSchematic.pdf)
 
-<object data="TeamSchematic.pdf" width="1000" height="1000" type='application/pdf'>
+<object data="TeamSchematic.pdf" width="647" height="1000" type='application/pdf'>
 
 __NOTE:__ for schematic Bill of Materials (BOM), see [Appendix E](Appendix/AppendixMain.md#bill-of-materials)
