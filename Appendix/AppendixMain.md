@@ -648,7 +648,7 @@ Now William will only buy his climate control devices from UCC, for all of his c
 
 ### Links:
 
-[Title Page](/index.md)
+[Title Page](https://asu-egr314-team-302.github.io/ASU-EGR314-Team-302.gitgub.io/)
 
 
 
