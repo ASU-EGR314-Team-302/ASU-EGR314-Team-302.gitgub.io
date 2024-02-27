@@ -1,6 +1,6 @@
 # Appendix
 
-1. [Appendix A](#appendix-a) test
+1. [Appendix A](#appendix-a) 
     1. [Table 1A: Team Member Communication Modes](#emtable-1-team-member-communication-modesem)
 
     2. [Communication Procedures](#communication-procedures)
