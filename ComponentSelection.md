@@ -119,7 +119,7 @@ __Price:__ $0.84
 | Pros | Cons |
 |----------|----------|
 | - Outputs 3.3V which is required for the project. | - If there is any different voltage requirements this regulator will most likely not work |
-| - Has a voltage input max of 14V which gives us more to work with in terms of battery voltage |  |
+| - Has a voltage input max of 14V which gives us more to work with in terms of battery voltage | Being surface mount it may be difficult to solder for our project |
 | - Inexpensive |  |
 
 <br>
