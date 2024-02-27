@@ -7,7 +7,7 @@
 Now that the team has a goal and a work schedule created, the next step is to research similar products to identify their strengths and weaknesses. This is an essential part of product development as it gives you a great opportunity to learn what ideas have worked in the past as well as identify what features didn’t work as well as intended. We took 5 similar products and what we are hoping to achieve and record the pros and cons of each left by their consumers. Our products include: 
 
 * Indoor/Outdoor thermometer
-* Mini-hydrometer
+* Mini-hygrometer
 * Digital hygrometer and thermometer
 * Tower fan
 * Humidity Controller
