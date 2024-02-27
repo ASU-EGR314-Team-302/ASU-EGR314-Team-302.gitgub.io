@@ -617,6 +617,15 @@ Now William will only buy his climate control devices from UCC, for all of his c
 
 <br>
 
+## Appendix F
+
+### Microcontroller Selection
+
+[Microcontroller Selection](MicrocontrollerSelection.pdf)
+
+<object data="MicrocontrollerSelection.pdf" width="1000" height="1000" type='application/pdf'>
+
+<br>
 ### Links:
 
 [Title Page](/index.md)

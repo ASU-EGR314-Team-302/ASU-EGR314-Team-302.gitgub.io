@@ -155,6 +155,38 @@ We choose this motor controller because it is small and easier to integrate into
 
 <br>
 
+## Microcontroller
+
+<img src="https://github.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/blob/main/docs/assets/images/ComponentSelection/PIC18F57K42.jpg?raw=true" width="250" height="250">
+
+### [PIC16F1847-I/PT](https://www.digikey.com/en/products/detail/microchip-technology/pic18f57k42-i-pt/7561735)
+
+__Price:__ $2.84
+
+|  |  |
+| --- | --- |
+| GPIO Pins | 44 |
+| ADC Pins | 43 |
+| PWM's | 4 |
+| I2C/SPI | 5/3 |
+| UART | 4 |
+| Supply Voltage Range | 2.3-5.5V |
+| Absolute Max Current | 350mA |
+| Max GPIO Current | +-50mA |
+| Bit Architecture | 8-bit |
+| Overall Pros | Has a PWM and gives us many options for future growth |
+| Overall Cons | - Has more pins than we would need<br>- Has higher current draw than similar products |
+
+<br>
+
+__Rationale:__ 
+
+Choosing this microcontroller allows us to have future expansion options while only requiring a minimal increase in current draw when compared to other microcontrollers. Having several PWMs as well as more I2Cs than we need will cover any changes in the design at a later date.
+
+__NOTE:__ See [Appendix F](/Appendix/AppendixMain.md#appendix-f) for other microcontroller considerations.
+
+<br>
+
 ## Power Budget
 
 [Link to Power Budget](PowerBudget.pdf)
