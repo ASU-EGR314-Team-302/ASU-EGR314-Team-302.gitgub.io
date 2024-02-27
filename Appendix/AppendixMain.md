@@ -42,9 +42,7 @@
 
     5.  [Appendix E](#appendix-e)
 
-        1. [Prototyping Phase BOM](#table-e1-prototyping-phase-bom)
-
-        2. [Single Unit BOM](#table-e2-single-unit-bom)
+        1. [Bill of Materials](#bill-of-materials)
 
 
 <br><br>
@@ -549,7 +547,7 @@ Now William will only buy his climate control devices from UCC, for all of his c
 
 ### Bill of Materials
 
-__NOTE:__ The BOM for a single unit found after the Prototyping Phase BOM Table.
+<!-- __NOTE:__ The BOM for a single unit found after the Prototyping Phase BOM Table.
 
 <br>
 
@@ -582,11 +580,11 @@ __NOTE:__ The BOM for a single unit found after the Prototyping Phase BOM Table.
 |100 Ohm resistor| |50|$0.01|$0| | |YAGEO|RC0805FR-07100RL|Link|Datasheet|Digikey|311-100CRCT-ND|50|2/22/2024| | |TBD|
 |Surface Mount LED| |15|$0.19|$2.85| | |Würth Elektronik|150080RS75000|Link|Datasheet|Digikey|732-4984-1-ND|15|2/22/2024| | |TBD|
 | | | | | | | | | | | | | | | | | | |
-| | | |Total|$141.30| | | | | | | | | | | | | |
+| | | |Total|$141.30| | | | | | | | | | | | | |-->
 
 <br>
 
-### Table E2: Single Unit BOM
+### Table E1: Bill of Materials
 
 | | | | | | | | | | | | | | | | | | |
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
