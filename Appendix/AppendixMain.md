@@ -40,7 +40,7 @@
     
     4. [Compiled List of Needs](#compiled-list-of-needs)
 
-<!--5.  [Appendix E](#appendix-e) -->
+    5.  [Appendix E](#appendix-e)
 
 
 <br><br>
@@ -541,8 +541,44 @@ Now William will only buy his climate control devices from UCC, for all of his c
 
 <br>
 
-<!--## Appendix E-->
+## Appendix E
 
+### Bill of Materials
+
+__NOTE:__ Image for the BOM for a single unit found after the Prototyping Phase BOM Table.
+
+<br>
+
+### _Table E1: Prototyping Phase BOM_
+
+| || | | | | | | | | | | | | | | | |
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|Part Name/Description| |Unit Quantity|Unit Prototype Cost|Total Prototype Cost|Unit Production Cost|Total Production Cost|Manufacturer|Manufacturer Part #|Vendor Link|Datasheet Link|Supplier|Supplier Part #|# Ordered|Date Ordered|# Received|Surplus|Schematic Reference Designators|
+|By Vendor:| | | | | | | | | | | | | | | | | |
+|Digikey:| | | | | | | | | | | | | | | | | |
+|Humidity Sensor| |5|$2.49|$12.45| | |Sensirion AG|SHT40-AD1B-R3|Link|Datasheet|Digikey|1649-SHT40-AD1B-R3TR-ND - Cut Tape (CT)|5|2/22/2024| | |TBD|
+|10 kOhm resistors| |20|$0.027|$0.54| | |YAGEO|RC0805FR-0710KL|Link|Datasheet|Digikey|311-10.0KCRCT-ND - Cut Tape (CT)|20|2/22/2024| | |TBD|
+|0.1 uF capacitors| |30|$0.170|$5.10| | |TDK Corporation|C2012X7R2A104K125AA|Link|Link|Digikey|445-1418-1-ND - Cut Tape (CT)|30|2/22/2024| | |TBD|
+|Motor Controller| |5|$2.13|$10.65| | |Texas Instruments|DRV8870DDAR|Link|Link|Digikey|296-42660-1-ND - Cut Tape (CT)|5|2/22/2024| | |TBD|
+|Battery| |24|$0.65|$15.60| | |Energizer Battery Company|EN91|Link|Link|Digikey|N107-ND|24|2/22/2024| | |TBD|
+|Microcontroller| |8|$2.84|$22.72| | |Microchip Technology|PIC18F57K42-I/PT|Link|Datasheet|Digikey|PIC18F57K42-I/PT-ND|8|2/22/2024| | |TBD|
+|Temperature Sensor| |5|$1.15|$5.75| | |Microchip Technology|TC74A4-3.3VCTTR|Link|Link|Digkey|TC74A4-3.3VCTCT-ND|5|2/22/2024| | |TBD|
+|47 uF capacitor| |10|$0.35|$3.48| | |Murata Electronics|GRM32EC81C476KE15K|Link|Link|Digikey|490-16309-1-ND|10|2/22/2024| | |TBD|
+|Header Pins for Battery| |4|$4.90|$19.60| | |Harwin Inc.|D01-9922046|Link|Link|Digikey|D01-9922046|4|2/22/2024| | |TBD|
+|2.2 uH Inductor| |10|$0.068|$0.68| | |Bourns Inc.|CV201210-2R2K|Link|Link|Digikey|CV201210-2R2KCT-ND|10|2/22/2024| | |TBD|
+|Barrel Jack| |10|$0.58|$5.79| | |CUI Devices|PJ-002AH|Link|Link|Digikey|CP-002AH-ND|10|2/22/2024| | |TBD|
+|4.7uF capacitor for 3.3V regulator| |6|$0.10|$0.60| | |Samsung Electro-Mechanics|CL21A475KAQNNNE|Link|Link|Digikey|1276-1244-1-ND|6|2/22/2024| | |TBD|
+|Switching voltage regulator 3.3 V| |7|$1.66|$11.62| | |Texas Instruments|LM3671MF-3.3/NOPB|Link|Link|Digikey|LM3671MF-3.3/NOPBCT-ND|7|2/22/2024| | |TBD|
+|10 uF capacitor for regulator| |50|$0.03|$1.58| | |Murata Electronics|GRM21BR61C106KE15K|Link|Link|Digikey|490-6473-1-ND|50|2/22/2024| | |TBD|
+|Voltage regulator 12 V| |7|$0.93|$6.51| | |Rohm Semiconductor|BDJ2GC0WEFJ-E2|Link|Datasheet|Digikey|BDJ2GC0WEFJ-E2CT-ND|7|2/22/2024| | |TBD|
+|Fan| |2|$5.35|10.7| | |Sunon Fans|MF80251V1-1000U-A99|Link|Datasheet|Digikey|259-1804-ND|2|2/22/2024| | |TBD|
+|0.3 Ohm resistor| |10|$0.24|2.44| | |Vishay Dale|RCWE0805R300FKEA|Link|Datasheet|Digikey|RCWE.3DCT-ND|10|2/22/2024| | |TBD|
+|Pushbutton Switch| |10|$0.170|$1.70| | |C&K|PTS645SL43SMTR92 LFS|Link|Datasheet|Digikey|CKN10880CT-ND|10|2/22/2024| | |TBD|
+|1.4 kOhm resistor| |20|$0.03|$0.50| | |YAGEO|RC0805FR-071K4L|Link|Datasheet|Digikey|311-1.40KCRCT-ND|20|2/22/2024| | |TBD|
+|100 Ohm resistor| |50|$0.01|$0| | |YAGEO|RC0805FR-07100RL|Link|Datasheet|Digikey|311-100CRCT-ND|50|2/22/2024| | |TBD|
+|Surface Mount LED| |15|$0.19|$2.85| | |Würth Elektronik|150080RS75000|Link|Datasheet|Digikey|732-4984-1-ND|15|2/22/2024| | |TBD|
+| | | | | | | | | | | | | | | | | | |
+| | | |Total|$141.30| | | | | | | | | | | | | |
 
 
 ### Links:
