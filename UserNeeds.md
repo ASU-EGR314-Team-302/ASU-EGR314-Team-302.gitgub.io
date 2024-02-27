@@ -12,7 +12,9 @@ Now that the team has a goal and a work schedule created, the next step is to re
 * Tower fan
 * Humidity Controller
 
-The full list of product information, as well as the recorded feedback from the assignments, can be found in [Appendix B](/Appendix/AppendixMain.md#appendix-b) We then copied all the user needs recorded onto a Google Jam board for easier management as well as adding a few other keynotes that we discovered while viewing other products. This list can be seen below: 
+The full list of product information, as well as the recorded feedback from the assignments, can be found in [Appendix B](/Appendix/AppendixMain.md#appendix-b) 
+
+We then copied all the user needs recorded onto a Google Jam board for easier management as well as adding a few other keynotes that we discovered while viewing other products. This list can be seen below: 
 
 ![Part 1.0 figure](/docs/assets/images/Part1.0.png)
 
