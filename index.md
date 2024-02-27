@@ -87,7 +87,7 @@ The motor must additionally be controlled by a motor controller communicating ov
 This semester, our team embarked on an exciting project tasked with the creation of a portable climate control station designed to provide real-time weather/environmental data and manipulate the surrounding environment. The objective is to incorporate two distinct weather condition sensors capable of accurately measuring a range of environmental parameters such as temperature, humidity, atmospheric pressure, and wind speed. Through a wifi connection, these sensors will transmit data to a central processing unit which will then execute commands to operate a motor. This motor, crucial to the functionality of the Uniform Climate Control device, will be controlled by a motor controller utilizing information produced by the sensors (I2C or SPI-based protocol for communication) to then control the climate in the vicinity. As the culmination of our efforts, the completed project will be displayed at ASU's innovation showcase.
 
 
-# Team 302 Presentation 1:
+# Team 302 <br> Presentation 1:
 
 
 [![Presentation 1](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/Checkpoint%201.png)](http://www.youtube.com/watch?v=8Q0dBRQYoR4)
