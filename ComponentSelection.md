@@ -189,6 +189,19 @@ __NOTE:__ See [Appendix F](/Appendix/AppendixMain.md#appendix-f) for other micro
 
 ## Power Budget
 
+Our power budget includes two power supplies as we have a component that requires more
+than 3.3 volts. Our first power supply utilizes a 4.5 volt battery pack that is regulated down to 3.3
+volts utilizing our voltage regulator. The systems that run off the 3.3 volt regulator are the
+temperature sensor, Humidity sensor, the microcontroller, and the motor driver . The reason for
+this is that all of the devices have an operating range between around 3 and 6 volts and thus
+belong on the same power rail. 
+
+Our second power supply utilizes 12 volts connected to a 12 volt
+regulator and is for our fan as its operating range is above 3.3 volts and its max operating
+voltage is 14 volts so to get the most out of it we utilized 12 volts. The battery life of both these
+systems is 2.5 hours for the 4.5 volt battery pack and 2 hours for the 12 volt battery pack.
+
+
 [Link to Power Budget](PowerBudget.pdf)
 
 <object data="PowerBudget.pdf" width="800" height="800" type='application/pdf'>
