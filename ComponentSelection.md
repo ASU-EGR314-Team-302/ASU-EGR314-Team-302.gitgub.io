@@ -206,7 +206,7 @@ systems is 2.5 hours for the 4.5 volt battery pack and 2 hours for the 12 volt b
 
 [Link to Power Budget](PowerBudget.pdf)
 
-<object data="PowerBudget.pdf" width="800" height="800" type='application/pdf'></object>
+<object data="PowerBudget.pdf" width="900" height="900" type='application/pdf'></object>
 
 
 ### Links:
