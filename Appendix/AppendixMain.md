@@ -633,7 +633,7 @@ Now William will only buy his climate control devices from UCC, for all of his c
 
 <br>
 
-## Appendix G  
+## Appendix G   
 
 <br>
 
