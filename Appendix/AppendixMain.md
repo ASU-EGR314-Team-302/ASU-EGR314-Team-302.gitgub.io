@@ -623,10 +623,9 @@ Now William will only buy his climate control devices from UCC, for all of his c
 
 ### Microcontroller Selection
 
-[Microcontroller Selection]()
+[Microcontroller Selection](MicrocontrollerSelection.pdf)
 
-<object data="ASU-EGR314-Team-302.gitgub.io
-/MicrocontrollerSelection.pdf" width="1000" height="1000" type='application/pdf'>
+<object data="MicrocontrollerSelection.pdf" width="1000" height="1000" type='application/pdf'>
 
 <br>
 
