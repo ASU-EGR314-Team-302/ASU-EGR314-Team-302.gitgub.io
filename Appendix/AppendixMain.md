@@ -628,9 +628,9 @@ Now William will only buy his climate control devices from UCC, for all of his c
 ### Microcontroller Selection
 
 [Link to Microcontroller Selection](MicrocontrollerSelection.pdf)
-<!--
-<object data="MicrocontrollerSelection.pdf" width="1000" height="1000" type='application/pdf'>
--->
+
+<object data="MicrocontrollerSelection.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
 <br>
 
@@ -641,9 +641,9 @@ Now William will only buy his climate control devices from UCC, for all of his c
 ### Component Selection
 
 [Link to Component Selection](ComponentSelection.pdf)
-<!--
-<object data="ComponentSelection.pdf" width="1000" height="1000" type='application/pdf'>
--->
+
+<object data="ComponentSelection.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 <br>
 
 ### Links:
