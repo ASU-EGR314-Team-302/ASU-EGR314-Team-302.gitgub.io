@@ -40,11 +40,13 @@
     
     4. [Compiled List of Needs](#compiled-list-of-needs)
 
-5.  [Appendix E](#appendix-e)
+5. [Appendix E](#appendix-e)
 
     1. [Bill of Materials](#bill-of-materials)
 
 6. [Appendix F](#appendix-f)
+
+7. [Appendix G](#appendix-g)
 
 
 <br><br>
@@ -623,9 +625,19 @@ Now William will only buy his climate control devices from UCC, for all of his c
 
 ### Microcontroller Selection
 
-[Microcontroller Selection](MicrocontrollerSelection.pdf)
+[Link to Microcontroller Selection](MicrocontrollerSelection.pdf)
 
 <object data="MicrocontrollerSelection.pdf" width="1000" height="1000" type='application/pdf'>
+
+<br>
+
+## Appendix G
+
+### Component Selection
+
+[Link to Component Selection](ComponentSelection.pdf)
+
+<object data="ComponentSelection.pdf" width="1000" height="1000" type='application/pdf'>
 
 <br>
 

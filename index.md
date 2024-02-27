@@ -62,6 +62,8 @@ Link to header on other page
 
     7. [Power Budget](ComponentSelection.md#power-budget)
 
+    8. [Microcontroller](ComponentSelection.md#microcontroller)
+
 8. [Hardware Proposal](HardwareProposal.md)
 
 9. [Software Proposal](SoftwareProposal.md)
