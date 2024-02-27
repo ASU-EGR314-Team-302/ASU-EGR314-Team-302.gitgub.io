@@ -22,7 +22,7 @@ Link to header on other page
 
 
 
-## Arizona State University - EGR314 Spring 24' - Professor Kevin Nichols 
+## Arizona State University - EGR314 Spring '24 - Professor Kevin Nichols 
 
 ## Table of Contents
 
