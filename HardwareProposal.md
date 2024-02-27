@@ -10,6 +10,18 @@ The inclusion of a motor driver enhances the device's functionality beyond that 
 
 In summary, the design comprehensively fulfills all user requirements by providing a device capable of temperature and humidity monitoring while effectively cooling the surroundings—an essential feature, particularly in hot regions like Arizona.
 
+__NOTE:__ for schematic Bill of Materials (BOM), see [Appendix E](Appendix/AppendixMain.md#bill-of-materials)
+
+<br>
+
+### Links:
+
+[Title Page](index.md)
+
+[Appendix](/Appendix/AppendixMain.md)
+
+---
+
 [Link to Team Schematic](TeamSchematic.pdf)
 
 <object data="TeamSchematic.pdf" width="647" height="1000" type='application/pdf'>
