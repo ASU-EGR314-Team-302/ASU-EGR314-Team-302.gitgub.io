@@ -1,7 +1,3 @@
-<!--
-Ask team for summaries for this page
--->
-
 # Hardware Proposal
 
 The schematic design aligns with user needs by incorporating all the essential features required to meet user satisfaction per our user needs. It integrates a temperature sensor to measure the surrounding temperature and transmit the data to the microcontroller. Additionally, it includes a humidity sensor to monitor the humidity levels of the environment, also relaying this information to the microcontroller. 
