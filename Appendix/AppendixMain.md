@@ -42,6 +42,10 @@
 
     5.  [Appendix E](#appendix-e)
 
+        1. [Prototyping Phase BOM](#table-e1-prototyping-phase-bom)
+
+        2. [Single Unit BOM](#table-e2-single-unit-bom)
+
 
 <br><br>
 
@@ -545,11 +549,11 @@ Now William will only buy his climate control devices from UCC, for all of his c
 
 ### Bill of Materials
 
-__NOTE:__ Image for the BOM for a single unit found after the Prototyping Phase BOM Table.
+__NOTE:__ The BOM for a single unit found after the Prototyping Phase BOM Table.
 
 <br>
 
-### _Table E1: Prototyping Phase BOM_
+### Table E1: Prototyping Phase BOM
 
 | || | | | | | | | | | | | | | | | |
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
@@ -580,6 +584,40 @@ __NOTE:__ Image for the BOM for a single unit found after the Prototyping Phase 
 | | | | | | | | | | | | | | | | | | |
 | | | |Total|$141.30| | | | | | | | | | | | | |
 
+<br>
+
+### Table E2: Single Unit BOM
+
+| | | | | | | | | | | | | | | | | | |
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|Part Name/Description| |Unit Quantity|Unit Prototype Cost|Total Prototype Cost|Unit Production Cost|Total Production Cost|Manufacturer|Manufacturer Part #|Vendor Link|Datasheet Link|Supplier|Supplier Part #|# Ordered|Date Ordered|# Received|Surplus|Schematic Reference Designators|
+|By Vendor:| | | | | | | | | | | | | | | | | |
+|Digikey:| | | | | | | | | | | | | | | | | |
+|Humidity Sensor| |1|$2.49|$2.49| | |Sensirion AG|SHT40-AD1B-R3|Link|Datasheet|Digikey|1649-SHT40-AD1B-R3TR-ND - Cut Tape (CT)|5|2/22/2024| |4| |
+|10 kOhm resistors| |10|$0.027|$0.27| | |YAGEO|RC0805FR-0710KL|Link|Datasheet|Digikey|311-10.0KCRCT-ND - Cut Tape (CT)|20|2/22/2024| |10| |
+|0.1 uF capacitors| |6|$0.170|$1.02| | |TDK Corporation|C2012X7R2A104K125AA|Link|Link|Digikey|445-1418-1-ND - Cut Tape (CT)|30|2/22/2024| |24| |
+|Motor Controller| |1|$2.13|$2.13| | |Texas Instruments|DRV8870DDAR|Link|Link|Digikey|296-42660-1-ND - Cut Tape (CT)|5|2/22/2024| |4| |
+|Battery| |11|$0.65|$7.15| | |Energizer Battery Company|EN91|Link|Link|Digikey|N107-ND|24|2/22/2024| |13| |
+|Microcontroller| |1|$2.84|$2.84| | |Microchip Technology|PIC18F57K42-I/PT|Link|Datasheet|Digikey|PIC18F57K42-I/PT-ND|8|2/22/2024| |7| |
+|Temperature Sensor| |1|$1.15|$1.15| | |Microchip Technology|TC74A4-3.3VCTTR|Link|Link|Digkey|TC74A4-3.3VCTCT-ND|5|2/22/2024| |4| |
+|47 uF capacitor| |1|$0.35|$0.35| | |Murata Electronics|GRM32EC81C476KE15K|Link|Link|Digikey|490-16309-1-ND|10|2/22/2024| |9| |
+|Header Pins for Battery| |2|$4.90|$9.80| | |Harwin Inc.|D01-9922046|Link|Link|Digikey|D01-9922046|4|2/22/2024| |2| |
+|2.2 uH Inductor| |1|$0.068|$0.07| | |Bourns Inc.|CV201210-2R2K|Link|Link|Digikey|CV201210-2R2KCT-ND|10|2/22/2024| |9| |
+|Barrel Jack| |2|$0.58|$1.16| | |CUI Devices|PJ-002AH|Link|Link|Digikey|CP-002AH-ND|10|2/22/2024| |8| |
+|4.7uF capacitor for 3.3V regulator| |1|$0.10|$0.10| | |Samsung Electro-Mechanics|CL21A475KAQNNNE|Link|Link|Digikey|1276-1244-1-ND|6|2/22/2024| |5| |
+|Switching voltage regulator 3.3 V| |1|$1.66|$1.66| | |Texas Instruments|LM3671MF-3.3/NOPB|Link|Link|Digikey|LM3671MF-3.3/NOPBCT-ND|7|2/22/2024| |6| |
+|10 uF capacitor for regulator| |1|$0.03|$0.03| | |Murata Electronics|GRM21BR61C106KE15K|Link|Link|Digikey|490-6473-1-ND|50|2/22/2024| |49| |
+|Voltage regulator 12 V| |1|$0.93|$0.93| | |Rohm Semiconductor|BDJ2GC0WEFJ-E2|Link|Datasheet|Digikey|BDJ2GC0WEFJ-E2CT-ND|7|2/22/2024| |6| |
+|Fan| |1|$5.35|5.35| | |Sunon Fans|MF80251V1-1000U-A99|Link|Datasheet|Digikey|259-1804-ND|2|2/22/2024| |1| |
+|0.3 Ohm resistor| |1|$0.24|0.244| | |Vishay Dale|RCWE0805R300FKEA|Link|Datasheet|Digikey|RCWE.3DCT-ND|10|2/22/2024| |9| |
+|Pushbutton Switch| |1|$0.170|$0.17| | |C&K|PTS645SL43SMTR92 LFS|Link|Datasheet|Digikey|CKN10880CT-ND|10|2/22/2024| |9| |
+|1.4 kOhm resistor| |2|$0.03|$0.05| | |YAGEO|RC0805FR-071K4L|Link|Datasheet|Digikey|311-1.40KCRCT-ND|20|2/22/2024| |18| |
+|100 Ohm resistor| |1|$0.01|$0| | |YAGEO|RC0805FR-07100RL|Link|Datasheet|Digikey|311-100CRCT-ND|50|2/22/2024| |49| |
+|Surface Mount LED| |5|$0.19|$0.95| | |Würth Elektronik|150080RS75000|Link|Datasheet|Digikey|732-4984-1-ND|15|2/22/2024| |10| |
+| | | | | | | | | | | | | | | | | | |
+| | | |Total|$37.92| | | | | | | | | | | | | |
+
+<br>
 
 ### Links:
 
