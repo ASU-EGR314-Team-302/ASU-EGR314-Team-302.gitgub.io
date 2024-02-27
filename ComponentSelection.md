@@ -4,6 +4,8 @@ Add appendix for other options that weren't chosen.
 
 # Component Selection
 
+__NOTE:__ See [Appendix G](/Appendix/AppendixMain.md#appendix-g) for other components considered.
+
 ## Power Source
 
 
@@ -206,6 +208,12 @@ systems is 2.5 hours for the 4.5 volt battery pack and 2 hours for the 12 volt b
 
 <object data="PowerBudget.pdf" width="800" height="800" type='application/pdf'>
 
+
+### Links:
+
+[Title Page](index.md)
+
+[Appendix](/Appendix/AppendixMain.md)
 
 <!--
 __NOTE:__ See [Appendix E](/Appendix/AppendixMain.md#appendix-e) for other component considerations. 

@@ -15,3 +15,11 @@ In summary, the design comprehensively fulfills all user requirements by providi
 <object data="TeamSchematic.pdf" width="647" height="1000" type='application/pdf'>
 
 __NOTE:__ for schematic Bill of Materials (BOM), see [Appendix E](Appendix/AppendixMain.md#bill-of-materials)
+
+<br>
+
+### Links:
+
+[Title Page](index.md)
+
+[Appendix](/Appendix/AppendixMain.md)
