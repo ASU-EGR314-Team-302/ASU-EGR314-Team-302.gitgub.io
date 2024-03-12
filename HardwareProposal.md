@@ -1,6 +1,6 @@
 # Hardware Proposal
 
-The schematic design aligns with user needs by incorporating all the essential features required to meet user satisfaction per our user needs. It integrates a temperature sensor to measure the surrounding temperature and transmit the data to the microcontroller. Additionally, it includes a humidity sensor to monitor the humidity levels of the environment, also relaying this information to the microcontroller. 
+The schematic design aligns with our user needs by incorporating all the essential features required to meet user specifications. It integrates a temperature sensor to measure the surrounding temperature and transmit the data to the microcontroller. Additionally, it includes a humidity sensor to monitor the humidity levels of the environment, also relaying this information to the microcontroller. 
 
 The inclusion of a motor driver enhances the device's functionality beyond that of a mere thermometer, allowing for control of the fan. The fan serves to cool during elevated temperatures and features a manual switch for convenient on/off control. The microcontroller plays a pivotal role in orchestrating these components, enabling autonomous activation of the fan during elevated temperatures without user intervention. Furthermore, it facilitates data transmission to the GitHub website via Wi-Fi, courtesy of the ESP2 module connected to the microcontroller. 
 
