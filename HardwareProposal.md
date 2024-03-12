@@ -8,9 +8,9 @@ In summary, the design comprehensively fulfills all user requirements by providi
 
 [Link to Team Schematic](TeamSchematic.pdf)
 
-<object data="TeamSchematic.pdf" width="900" height="900" type='application/pdf'></object>
+<object data="TeamSchematic2.pdf" width="900" height="900" type='application/pdf'></object>
 
-__NOTE:__ for schematic Bill of Materials (BOM), see [Appendix E](Appendix/AppendixMain.md#bill-of-materials)
+__NOTE:__ for schematic Bill of Materials (BOM), see [Appendix E](Appendix/AppendixMain.md#bill-of-materials) <!-- update -->
 
 <br>
 
