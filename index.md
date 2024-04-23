@@ -2,6 +2,7 @@
     Things to update:
         *software proposal
         *block diagram varification table
+        *Proof-Read everything
 -->
 
 # Uniform Climate Control
