@@ -6,5 +6,9 @@
 * Evan Lininger
 * Justin Hanson
 
-
+<!--
+    Things to update:
+        *software proposal
+        *block diagram varification table
+-->
 
