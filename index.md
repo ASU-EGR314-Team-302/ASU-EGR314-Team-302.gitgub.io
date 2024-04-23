@@ -1,4 +1,8 @@
-
+<!--
+    Things to update:
+        *software proposal
+        *block diagram varification table
+-->
 
 # Uniform Climate Control
 
