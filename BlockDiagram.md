@@ -8,8 +8,10 @@ To ensure compatibility, we selected components designed to operate on 3.3 volts
 
 [_Figure 1: Block Diagram Image_](https://github.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/blob/main/docs/assets/images/BlockDiagram.jpg?raw=true)
 
+<object data="BlockDiagram.pdf" width="900" height="900" type='application/pdf'></object>
+<!--
 <img src="https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/BlockDiagram.jpg" witdth="599" height="622">
-
+-->
 
 ### Links:
 
