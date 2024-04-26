@@ -12,7 +12,7 @@ Below is a PDF showcasing the flow of the systems.
 
 <br>
 
-<object data="SoftwareProposalOnePage.pdf" width="900" height="900" type='application/pdf'></object>
+<object data="NewSoftwareProposal.pdf" width="900" height="900" type='application/pdf'></object>
 
 <!-- <img src="https://github.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/blob/main/docs/assets/images/SoftwareDiagram/MainLoop.drawio.png?raw=true" width="732" height="1358">
 
