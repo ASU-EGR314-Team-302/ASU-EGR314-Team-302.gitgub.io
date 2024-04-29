@@ -162,8 +162,10 @@ We choose this motor controller because it is small and easier to integrate into
 <img src="https://github.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/blob/main/docs/assets/images/ComponentSelection/PIC18F57K42.jpg?raw=true" width="250" height="250">
 
 ### [PIC16F1847-I/PT](https://www.digikey.com/en/products/detail/microchip-technology/PIC18LF26K40-I-SS/6623496)
+### [PIC16F1847-I/PT](https://www.digikey.com/en/products/detail/microchip-technology/pic18f57k42-i-pt/7561735)
 
 __Price:__ $1.80
+__Price:__ $2.84
 
 |  |  |
 | --- | --- |
@@ -173,19 +175,31 @@ __Price:__ $1.80
 | I2C/SPI | 2 |
 | UART | 2 |
 | Supply Voltage Range | 1.8-3.6V |
+| GPIO Pins | 44 |
+| ADC Pins | 43 |
+| PWM's | 4 |
+| I2C/SPI | 5/3 |
+| UART | 4 |
+| Supply Voltage Range | 2.3-5.5V |
 | Absolute Max Current | 350mA |
 | Max GPIO Current | +-50mA |
 | Bit Architecture | 8-bit |
 | Overall Pros | Has a PWM and gives us many options for future growth as well as being easy to solder and work with |
 | Overall Cons | - Has as smaller supply voltage range than previous microcontroller<br>- Has fewer I2C and SPI pins |
+| Overall Pros | Has a PWM and gives us many options for future growth |
+| Overall Cons | - Has more pins than we would need<br>- Has higher current draw than similar products |
 
 <br>
 
 __Rationale:__ 
 
+<<<<<<< HEAD
 We Chose this microcontroller after the first one we selected didn't pan out. The first one we used proved to be very difficult to incorporate
 and also required more voltage than what our system would need at 5 volts. Moreover, after the routine failures of the older one we decided to 
 use this one as it could fulfill our requirements while also only being 28 pins.
+=======
+Choosing this microcontroller allows us to have future expansion options while only requiring a minimal increase in current draw when compared to other microcontrollers. Having several PWMs as well as more I2Cs than we need will cover any changes in the design at a later date.
+>>>>>>> parent of c61c772 (Update ComponentSelection.md)
 
 __NOTE:__ See [Appendix F](/Appendix/AppendixMain.md#appendix-f) for other microcontroller considerations.
 
