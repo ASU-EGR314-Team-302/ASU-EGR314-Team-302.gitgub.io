@@ -12,6 +12,8 @@ Below is a PDF showcasing the flow of the systems.
 
 <br>
 
+[Figure 14: Software Proposal](NewSoftwareProposal.pdf)
+
 <object data="NewSoftwareProposal.pdf" width="900" height="900" type='application/pdf'></object>
 
 <!-- <img src="https://github.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/blob/main/docs/assets/images/SoftwareDiagram/MainLoop.drawio.png?raw=true" width="732" height="1358">

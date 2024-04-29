@@ -18,23 +18,23 @@ We then copied all the user needs recorded onto a Google Jam board for easier ma
 
 ![Part 1.0 figure](/docs/assets/images/Part1.0.png)
 
-*Figure 2: User Needs Part 1.0*
+*Figure 1: User Needs Part 1.0*
 
 ![Part 1.1 figure](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/Part1.1.png)
 
-*Figure 3: User Needs Part 1.1*
+*Figure 2: User Needs Part 1.1*
 
 ![Part 2.1 figure](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/Part2.1.png)
 
-*Figure 4: User Needs Part 2.1*
+*Figure 3: User Needs Part 2.1*
 
 ![Part 2.2 figure](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/Part2.2.png)
 
-*Figure 5: User Needs Part 2.2*
+*Figure 4: User Needs Part 2.2*
 
 ![Part 2.3 figure](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/Part2.3.png) 
 
-*Figure 6: User Needs Part 2.3*
+*Figure 5: User Needs Part 2.3*
 
 
 ## Product Requirements:

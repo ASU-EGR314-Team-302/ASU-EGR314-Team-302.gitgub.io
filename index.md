@@ -29,6 +29,19 @@ Link to header on other page
 
 ## Arizona State University - EGR314 Spring '24 - Professor Kevin Nichols 
 
+# Introduction
+
+<!-- This semester, our team was assigned with creating a mobile weather station that utilizes two different weather condition sensors to record and operate a motor via wifi connection. The allowed sensors are:
+
+* Temperature
+* Humidity
+* Atmospheric Pressure
+* Wind Speed
+
+The motor must additionally be controlled by a motor controller communicating over the I2C or SPI-based protocol. Once completed, the assigned projects will then be displayed at an innovation showcase where a working model is required. -->
+
+This semester, our team embarked on an exciting project tasked with the creation of a portable climate control station designed to provide real-time weather/environmental data and manipulate the surrounding environment. The objective is to incorporate two distinct weather condition sensors capable of accurately measuring a range of environmental parameters such as temperature, humidity, atmospheric pressure, and wind speed. Through a wifi connection, these sensors will transmit data to a central processing unit which will then execute commands to operate a motor. This motor, crucial to the functionality of the Uniform Climate Control device, will be controlled by a motor controller utilizing information produced by the sensors (I2C or SPI-based protocol for communication) to then control the climate in the vicinity. As the culmination of our efforts, the completed project will be displayed at ASU's innovation showcase.
+
 ## Table of Contents
 
 1. [Team Organization](TeamOrganization.md)
@@ -76,21 +89,39 @@ Link to header on other page
 10. [Appendix](Appendix/AppendixMain.md)
 
 <br>
+
+## Table of Figures
+
+1. [Figure 1:  User Needs Part 1.0](UserNeeds.md#establishing-user-needs-and-benchmarks)
+
+2. [Figure 2: User Needs Part 1.1](UserNeeds.md#establishing-user-needs-and-benchmarks)
+
+3. [Figure 3: User Needs Part 2.1](UserNeeds.md#establishing-user-needs-and-benchmarks)
+
+4. [Figure 4: User Needs Part 2.2](UserNeeds.md#establishing-user-needs-and-benchmarks)
+
+5. [Figure 5: User Needs Part 2.3](UserNeeds.md#establishing-user-needs-and-benchmarks)
+
+6. [Figure 6: Ideation Organization - Appearance and Power](DesignIdeation.md)
+
+7. [Figure 7: Ideation Organization - Funcitonality](DesignIdeation.md)
+
+8. [Figure 8: Design 1](DesignIdeation.md)
+
+9. [Figure 9: Design 2](DesignIdeation.md)
+
+10. [Figure 10: Design 3](DesignIdeation.md)
+
+11. [Figure 11: Selected Design](SelectedDesign.md)
+
+12. [Figure 12: Block Diagram Image](BlockDiagram.md)
+
+13. [Figure 13: Team Schematic](HardwareProposal.md)
+
+14. [Figure 14: Software Proposal](SoftwareProposal.md)
+
 <br>
-
-# Introduction
-
-<!-- This semester, our team was assigned with creating a mobile weather station that utilizes two different weather condition sensors to record and operate a motor via wifi connection. The allowed sensors are:
-
-* Temperature
-* Humidity
-* Atmospheric Pressure
-* Wind Speed
-
-The motor must additionally be controlled by a motor controller communicating over the I2C or SPI-based protocol. Once completed, the assigned projects will then be displayed at an innovation showcase where a working model is required. -->
-
-This semester, our team embarked on an exciting project tasked with the creation of a portable climate control station designed to provide real-time weather/environmental data and manipulate the surrounding environment. The objective is to incorporate two distinct weather condition sensors capable of accurately measuring a range of environmental parameters such as temperature, humidity, atmospheric pressure, and wind speed. Through a wifi connection, these sensors will transmit data to a central processing unit which will then execute commands to operate a motor. This motor, crucial to the functionality of the Uniform Climate Control device, will be controlled by a motor controller utilizing information produced by the sensors (I2C or SPI-based protocol for communication) to then control the climate in the vicinity. As the culmination of our efforts, the completed project will be displayed at ASU's innovation showcase.
-
+<br>
 
 # Team 302 <br> Presentation 1:
 
