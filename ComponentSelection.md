@@ -183,7 +183,7 @@ __Price:__ $1.80
 
 __Rationale:__ 
 
-We Choosethis microcontroller after the first one we selected didn't pan out. The first one we used proved to be very difficult to incorporate
+We Chose this microcontroller after the first one we selected didn't pan out. The first one we used proved to be very difficult to incorporate
 and also required more voltage than what our system would need at 5 volts. Moreover, after the routine failures of the older one we decided to 
 use this one as it could fulfill our requirements while also only being 28 pins.
 
