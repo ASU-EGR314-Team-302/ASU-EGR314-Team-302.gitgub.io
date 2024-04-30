@@ -48,6 +48,16 @@
 
 7. [Appendix G](#appendix-g)
 
+    1. [Component Selection](#component-selection)
+
+8. [Appendix H](#appendix-h)
+
+    1. [Project Main C File](#project-main-c-file)
+
+    2. [MCC Configuration](#mcc-configuration)
+
+    3. [MQTT Topic Table](#mqtt-topic-table)
+
 
 <br><br>
 
@@ -646,14 +656,231 @@ Now William will only buy his climate control devices from UCC, for all of his c
 
 <br>
 
+## Appendix H 
+
+### Project Main C File
+
+```
+
+#include "mcc_generated_files/mcc.h"
+#include <stdlib.h>
+#include "mcc_generated_files/i2c1_master.h"
+#include "mcc_generated_files/examples/i2c1_master_example.h"
+#include "mcc_generated_files/spi2.h"
+#include <stdio.h>
+#include "mcc_generated_files/mcc.h"
+#include "mcc_generated_files/eusart2.h"
+#include "mcc_generated_files/i2c1_master.h"
+#include "mcc_generated_files/examples/i2c1_master_example.h"
+
+
+
+
+// Addresses for the Humidity Sensor
+uint16_t humidVal = 0;
+uint8_t addH = 0x44;
+uint8_t dataH = 0xFD;
+
+
+
+//Addresses for Temp
+#define TempVal 0x4C
+#define Zero 0x00
+uint16_t tempR = 0;
+
+//Timer Vals
+uint16_t dStart = 0;
+uint16_t dc;
+uint16_t timeS = 0;
+uint16_t timeMs = 0;
+int Humid = 10;
+int Temp = 76;
+int rand1;
+int rand2;
+int rand3;
+int rand4;
+int MotOn = 0;
+int MotTime = 0;
+int MotEffect = 0;
+//Timer Interrupts
+void timerCall (void){
+    timeMs = timeMs+1;
+    
+    if(timeMs == 1000){
+        timeS = timeS+1;
+        timeMs = 0;
+        LED2_SetHigh();
+        
+        //motor code
+        if(MotOn == 1){
+            LED_SetHigh();
+            MotTime++;
+            MotEffect++;
+            if(MotEffect == 2 || MotEffect == 4){
+            Temp = Temp-1;
+            }
+            if(MotEffect == 4){
+            Humid = Humid-1;
+            MotEffect = 0;
+            }
+            
+        }
+        
+        
+        
+        
+        rand1 = rand() % 20;
+        rand2 = rand() % 2;
+        if (rand1 <= 10 && MotOn == 0){
+            Humid = Humid + rand2;
+        }
+             
+        rand3 = rand() % 20;
+        rand4 = rand() % 3;
+        if (rand3 >= 10 && MotOn == 0){
+            Temp = Temp + rand4;
+            
+        }
+        if (rand3 < 10){
+            Temp = Temp;
+        }
+        // Set ii to zero if it's greater than or equal to 100
+        if (Humid > 13){
+            Humid = 13;
+        }
+        if (Temp > 180){
+            Temp = 180;
+        }
+        if (Humid < 7){
+            Humid = 7;
+        }
+        if (Temp < 70){
+            Temp = 70;
+        }
+        if(Temp >= 86 && MotOn == 0){
+            MotOn = 1;
+        }
+        
+        if(MotTime >= 20){
+            MotOn = 0;
+            MotTime=0;
+            LED_SetLow();
+        }
+        
+        
+        //Get Temp & Humidity each second
+        //humidVal = I2C1_Read1ByteRegister(addH,dataH);
+        //printf("Humidity: %u%% || Temp: %u F\r", humidVal, 12);
+
+        printf("Humidity: %d%% || Temp: %d F\r", Humid, Temp);
+       
+        //increment time motor has been on
+        
+    }
+    if(timeMs == 50){
+      
+        LED2_SetLow();
+        
+    }
+    //turn on motor under certain circumstances
+
+    
+    
+}
+
+//Function to initialize SPI communication
+////void SPI_Init() {
+////    //SSP1CON1 = 0b00100000; // Enable SPI Master mode, clock = FOSC/4
+////    //SSP1STAT = 0;
+////    TRISCbits.TRISC5 = 0; // Set SS pin (RC5) as output
+////    LATCbits.LATC5 = 1;   // Set SS pin high initially
+////}
+
+
+
+
+
+/*
+                         Main application
+ */
+
+
+   
+void main(void)
+{
+    // Initialize the device
+    SYSTEM_Initialize();
+    TMR2_Initialize();
+    PIN_MANAGER_Initialize();
+    INTERRUPT_Initialize();
+    I2C1_Initialize();
+    
+    // Enable the Global Interrupts
+    INTERRUPT_GlobalInterruptEnable();
+
+    // Disable the Global Interrupts
+    //INTERRUPT_GlobalInterruptDisable();
+
+    // Enable the Peripheral Interrupts
+    INTERRUPT_PeripheralInterruptEnable();
+
+    // Disable the Peripheral Interrupts
+    //INTERRUPT_PeripheralInterruptDisable();
+    TMR2_SetInterruptHandler (timerCall);
+    TMR2_Start();
+    
+    
+    while (1)
+    {
+        //Turn motor on if need be
+        
+        
+      
+        
+        
+        
+        //tempR = I2C1_Read1ByteRegister(TempVal, Zero);
+        // Print formatted string
+       
+        // Print formatted string
+       
+        
+        
+        //Set bounds for Humidity and Temperature
+      
+       
+ 
+   
+        
+    }
+}
+
+
+```
+
+### MCC Configuration
+
+![MCC1](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/mcc1.png)
+
+![MCC2](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/mcc2.png)
+
+![MCC3](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/mcc3.png)
+
+![MCC4](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/mcc4.png)
+
+![MCC5](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/mcc5.png)
+
+![MCC6](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/mcc6.png)
+
+![MCC7](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/mcc7.png)
+
+
+### MQTT Topic Table
+
+![Topic Table](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/TopicTable.png)
+
 ### Links:
 
 [Title Page](https://asu-egr314-team-302.github.io/ASU-EGR314-Team-302.gitgub.io/)
-
-
-
-
-
-
 
 
