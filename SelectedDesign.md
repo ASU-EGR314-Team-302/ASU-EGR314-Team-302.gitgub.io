@@ -14,6 +14,15 @@ _Figure 11: Selected Design_
 
 <br>
 
+# Design Revisions
+
+Due to complications that occurred during testing, the team was forced to take a slightly different approach on the physical design of the project. Instead of a standing fan, the team secured the fan in a port on the side of the enclosure that housed the circuit board. The final design also removed the support stand since it would not be needed with the fan mounted to the side of the enclosure. The main reason for these design changes was the lack of time required to construct the standing fan structure after we troubleshot the issuses we were facing with the PCB.
+
+<!--
+Add picture of physical project.
+-->
+
+
 ### Links:
 
 [Title Page](index.md)
