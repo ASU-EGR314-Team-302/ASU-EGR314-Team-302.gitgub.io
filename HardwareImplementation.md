@@ -6,11 +6,17 @@
 
 __NOTE:__ for schematic Bill of Materials (BOM), see [Appendix E](Appendix/AppendixMain.md#bill-of-materials) <!-- update -->
 
-Our design fits our user needs of creating a compact design that monitors temperature as well as humidity. In addition, our design can activate a fan to help regulate surrounding temperatures. This design is battery operated and can be remotely monitored as a set and go design. 
+## User Needs
 
-At the heart of our design is our microcontroller. The microcontroller communicates to a temperature sensor as well as a humidity sensor via I2C. These sensors and microcontroller are powered by a 3.2 volt regulator which is powered from a 4.5 battery pack. We also used a motor driver that communicates with the microcontroller via SPI communications. The motor controller regulates a 12V battery input to our fan. The design is simple yet effective.
+Our design fits our user needs by creating a compact design that monitors temperature and humidity. In addition, our design can activate a fan to help regulate surrounding temperatures. This design is battery-operated and can be remotely monitored as a set-and-go design. 
 
-We tried to choose compact packages in our parts in order to give more flexibility to visual aspects later in the design process. In the end we opted to create a larger housing area to show the scalability of the project as a whole. We also went with a battery powered system that utilizes AA batteries as they provide a larger lifespan when compared to 9 volt batteries. Additionally these are easy to find and are field replaceable as needed. The ESP32 Wifi connector was provided to us to use in the course. 
+## In-Depth Design Functionality
+
+At the heart of our design is our microcontroller. The microcontroller communicates to a temperature sensor and a humidity sensor via I2C. These sensors and microcontroller are powered by a 4.5V battery pack which regulates the voltage down to 3.3 with a 3.3 volt regulator. We also used a motor driver to communicate with the microcontroller via SPI communications. The motor controller regulates a 12V battery input to our fan. The design is simple yet effective. 
+
+## Team Design
+
+We opted for choosing compact package sizes for our parts to give more flexibility to visual aspects later in the design process. In the end, we opted to create a larger housing area to show the scalability of the project as a whole. We also went with a battery-powered system that utilizes AA batteries as they provide a larger lifespan when compared to 9-volt batteries. Additionally, these are easy to find and are field-replaceable as needed. The ESP32 Wifi connector was provided to us to use in the course. 
 
 The below figures show the front and back of our final PCB design.
 
@@ -34,7 +40,13 @@ _Figure 15: PCB Back_
 
 <br>
 
-Upon the process of the entire design ideation, we learned many lessons. Overall, our biggest issue was the microcontroller. The controller that we selected wasn’t the best fit for what we actually needed. Since this was the first time the team could select a microcontroller we wanted all the bells and whistles that come with a compact microcontroller. The flaws to this is it required a 5 volt programmer that we couldn’t get to work. If we could go back, we would select a microcontroller that fit our requirements while being simplistic. Additionally, our microcontroller had a small footprint with 48 pins making soldering a challenge. 
+## "Version 2.0"
+
+If we were to create a "Version 2.0" of our hardware design we would do a overhaul for most of the components we selected. The package sizes for our microcontroller, humidity sensor, temperature sensor, and motor driver were very small and hard to work with. This resulted in a lot of troubleshooting of our PCB in order to get things to work. The team is unsure if the modifications we made are the cause for the errors we experienced with our software processing and we wish we had more time to get to the root of our problems. We also had trouble finding the proper footprint for the esp32 to fit properly on the board. Looking back this could have been solved if some of the team's time was spend making a custom footprint for the component. We would also find a fan with larger blades that provided better cooling capabilities while consuming less power so we could increase efficiency of the entire system.
+
+Other issues we experienced included drill holes for headers that shorted to ground that had to be bypassed, and problems with the snap programmer due to the default programming voltage of our original microcontroller. This forced the team to find a last minute replacment for the controller and wire it in from an external board (pictured below). Looking back, selecting a microcontroller that fit our requirements while having a larger package size and a smaller amount of pins would have greatly benefited our progress on the project.
+
+<img src="docs\assets\images\AssembledPCB.jpg" width="500" height="500">
 
 <br>
 

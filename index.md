@@ -86,7 +86,23 @@ This semester, our team embarked on an exciting project tasked with the creation
 
 8. [Hardware Implementation](HardwareImplementation.md)
 
+    1. [User Needs](HardwareImplementation.md#user-needs)
+
+    2. [In-Depth Design Functionality](HardwareImplementation.md#in-depth-design-functionality)
+
+    3. [Team Design](HardwareImplementation.md#team-design)
+
+    4. ["Version 2.0"](HardwareImplementation.md#version-20)
+
 9. [Software Implementation](SoftwareImplementation.md)
+
+    1. [Functionality](SoftwareImplementation.md#functionality)
+
+    2. [Design and Decision Making Process](SoftwareImplementation.md#design-and-decision-making-process)
+
+    3. [Top Five Design Changes](SoftwareImplementation.md#top-five-design-changes)
+
+    4. ["Version 2.0"](SoftwareImplementation.md#version-20)
 
 10. [System Verification](SystemVerification.md)
 
