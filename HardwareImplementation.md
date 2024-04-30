@@ -46,6 +46,10 @@ If we were to create a "Version 2.0" of our hardware design we would do a overha
 
 Other issues we experienced included drill holes for headers that shorted to ground that had to be bypassed, and problems with the snap programmer due to the default programming voltage of our original microcontroller. This forced the team to find a last minute replacment for the controller and wire it in from an external board (pictured below). Looking back, selecting a microcontroller that fit our requirements while having a larger package size and a smaller amount of pins would have greatly benefited our progress on the project.
 
+<br>
+
+__Note:__ Replacement microcontroller information can be found in [Component Selection](ComponentSelection.md#controller-used-in-final-assembly) 
+
 <img src="docs\assets\images\AssembledPCB.jpg" width="500" height="500">
 
 <br>

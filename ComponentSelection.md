@@ -189,6 +189,30 @@ __NOTE:__ See [Appendix F](/Appendix/AppendixMain.md#appendix-f) for other micro
 
 <br>
 
+
+### Controller Used in Final Assembly
+
+<img src="https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/ComponentSelection/PIC18LF26K40.jpg" width="250" height="250">
+
+### [PIC18LF26K40](https://www.digikey.com/en/products/detail/microchip-technology/PIC18LF26K40-I-SO/6623494)
+
+__Price:__ $1.86
+
+|  |  |
+| --- | --- |
+| GPIO Pins | 25 |
+| ADC Pins | 24 |
+| PWM's | 2 10-Bit |
+| I2C/SPI | 2 |
+| UART | 2 |
+| Supply Voltage Range | 1.8-3.6V |
+| Absolute Max Current | 350mA |
+| Max GPIO Current | +-50mA |
+| Bit Architecture | 8-bit |
+| Overall Pros | Has a PWM and gives us many options for future growth as well as being easy to solder and work with |
+| Overall Cons | - Has as smaller supply voltage range than previous microcontroller<br>- Has fewer I2C and SPI pins |
+<br>
+
 ## Power Budget
 
 Our power budget includes two power supplies as we have a component that requires more
