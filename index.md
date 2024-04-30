@@ -15,7 +15,7 @@
 * Evan Lininger
 * Justin Hanson
 
-## Preparation Date: 2/23/2024
+## Preparation Date: 4/29/2024
 
 <!--
 [Table of Contents](#table-of-contents)  
@@ -58,9 +58,11 @@ This semester, our team embarked on an exciting project tasked with the creation
 
 3. [Design Ideation](DesignIdeation.md)
 
-4. [Presentation 1](#team-302-presentation-1)
+4. [Presentation 1](Presentation1.md)
 
 5. [Selected Design](SelectedDesign.md)
+
+    1. [Design Revisions](SelectedDesign.md#design-revisions)
 
 6. [Block Diagram](BlockDiagram.md)
 
@@ -86,7 +88,13 @@ This semester, our team embarked on an exciting project tasked with the creation
 
 9. [Software Proposal](SoftwareProposal.md)
 
-10. [Appendix](Appendix/AppendixMain.md)
+10. [System Verification](SystemVerification.md)
+
+11. [Lessons Learned](LessonsLearned.md)
+
+12. [Future Recommendations](FutureRecommendations.md)
+
+13. [Appendix](Appendix/AppendixMain.md)
 
 <br>
 
@@ -120,11 +128,13 @@ This semester, our team embarked on an exciting project tasked with the creation
 
 14. [Figure 14: Software Proposal](SoftwareProposal.md)
 
-<br>
-<br>
+
+
+<!--
 
 # Team 302 <br> Presentation 1:
 
 
 [![Presentation 1](https://raw.githubusercontent.com/ASU-EGR314-Team-302/ASU-EGR314-Team-302.gitgub.io/main/docs/assets/images/Checkpoint%201.png)](http://www.youtube.com/watch?v=8Q0dBRQYoR4)
 
+-->
