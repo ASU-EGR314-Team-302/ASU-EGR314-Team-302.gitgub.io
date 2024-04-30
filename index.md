@@ -132,6 +132,8 @@ This semester, our team embarked on an exciting project tasked with the creation
 
 16. [Figure 16: Software Implementation](SoftwareImplementation.md)
 
+17. [System Verification Table](SystemVerification.pdf)
+
 
 
 <!--
