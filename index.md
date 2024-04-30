@@ -92,7 +92,7 @@ This semester, our team embarked on an exciting project tasked with the creation
 
     3. [Team Design](HardwareImplementation.md#team-design)
 
-    4. ["Version 2.0"](HardwareImplementation.md#version-20)
+    4. ["Version 2.0"](HardwareImplementation.md#quotversion-20quot)
 
 9. [Software Implementation](SoftwareImplementation.md)
 
