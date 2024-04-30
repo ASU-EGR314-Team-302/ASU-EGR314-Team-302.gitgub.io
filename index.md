@@ -102,7 +102,7 @@ This semester, our team embarked on an exciting project tasked with the creation
 
     3. [Top Five Design Changes](SoftwareImplementation.md#top-five-design-changes)
 
-    4. ["Version 2.0"](SoftwareImplementation.md#version-20)
+    4. ["Version 2.0"](SoftwareImplementation.md#version-2.0)
 
 10. [System Verification](SystemVerification.md)
 
