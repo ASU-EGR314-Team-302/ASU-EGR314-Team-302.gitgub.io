@@ -2,7 +2,7 @@
 Ask team for summaries for this page
 -->
 
-# Software Proposal
+# Software Implementation
 
 The main loop of our software starts by initializing the system and enabling interrupts. It then checks the humidity and displays it before returning to the start of the loop. Additionally, in that sequence, it checks the temperature and displays it. However, if it reads a temperature below 80 degrees Fahrenheit it will return a 0, it will then return to the start. Conversely, if the reading equals 80 degrees or more, it will return a 1, sending a digital signal to the motor driver, activating the fan for 2 minutes. After running for two minutes, it returns to the loop, allowing the fan to be activated frequently if the device is in a very hot area. 
 

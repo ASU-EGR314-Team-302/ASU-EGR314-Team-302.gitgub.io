@@ -1,6 +1,6 @@
 <!--
     Things to update:
-        *software proposal
+        *software Implementation
         *block diagram varification table
         *Proof-Read everything
 -->
@@ -84,9 +84,9 @@ This semester, our team embarked on an exciting project tasked with the creation
 
     8. [Microcontroller](ComponentSelection.md#microcontroller)
 
-8. [Hardware Proposal](HardwareProposal.md)
+8. [Hardware Implementation](HardwareImplementation.md)
 
-9. [Software Proposal](SoftwareProposal.md)
+9. [Software Implementation](SoftwareImplementation.md)
 
 10. [System Verification](SystemVerification.md)
 
@@ -124,13 +124,13 @@ This semester, our team embarked on an exciting project tasked with the creation
 
 12. [Figure 12: Block Diagram Image](BlockDiagram.md)
 
-13. [Figure 13: Team Schematic](HardwareProposal.md)
+13. [Figure 13: Team Schematic](HardwareImplementation.md)
 
-14. [Figure 14: PCB Front](HardwareProposal.md)
+14. [Figure 14: PCB Front](HardwareImplementation.md)
 
-15. [Figure 15: PCB Back](HardwareProposal.md)
+15. [Figure 15: PCB Back](HardwareImplementation.md)
 
-16. [Figure 16: Software Proposal](SoftwareProposal.md)
+16. [Figure 16: Software Implementation](SoftwareImplementation.md)
 
 
 

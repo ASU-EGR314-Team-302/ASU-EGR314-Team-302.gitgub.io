@@ -58,7 +58,7 @@ Our team's most important characteristics are:
 
 <br> 
 
-After moving through the component selection, software, and hardware proposals, our team has concluded that all of these design aspects are attainable for our project. The [Selected Design](SelectedDesign.md) page, will go more in depth on our final design choice and the resonings behind it.
+After moving through the component selection, software, and hardware Implementations, our team has concluded that all of these design aspects are attainable for our project. The [Selected Design](SelectedDesign.md) page, will go more in depth on our final design choice and the resonings behind it.
 
 
 

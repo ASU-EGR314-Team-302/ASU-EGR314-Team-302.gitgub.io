@@ -1,4 +1,4 @@
-# Hardware Proposal
+# Hardware Implementation
 
 [Figure 13: Team Schematic](TeamSchematic3.pdf)
 

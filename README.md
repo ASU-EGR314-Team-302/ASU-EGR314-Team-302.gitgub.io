@@ -8,7 +8,7 @@
 
 <!--
     Things to update:
-        *software proposal
+        *software Implementation
         *block diagram varification table
 -->
 
