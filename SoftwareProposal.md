@@ -12,7 +12,7 @@ Below is a PDF showcasing the flow of the systems.
 
 <br>
 
-[Figure 14: Software Proposal](NewSoftwareProposal.pdf)
+[Figure 16: Software Proposal](NewSoftwareProposal.pdf)
 
 <object data="NewSoftwareProposal.pdf" width="900" height="900" type='application/pdf'></object>
 

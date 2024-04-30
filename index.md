@@ -126,7 +126,11 @@ This semester, our team embarked on an exciting project tasked with the creation
 
 13. [Figure 13: Team Schematic](HardwareProposal.md)
 
-14. [Figure 14: Software Proposal](SoftwareProposal.md)
+14. [Figure 14: PCB Front](HardwareProposal.md)
+
+15. [Figure 15: PCB Back](HardwareProposal.md)
+
+16. [Figure 16: Software Proposal](SoftwareProposal.md)
 
 
 
